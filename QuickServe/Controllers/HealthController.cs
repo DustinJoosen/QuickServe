@@ -12,5 +12,11 @@ namespace QuickServe.Controllers
         {
             return Ok("QuickServe Rest API is running");
         }
+
+        [HttpGet("{name}")]
+        public IActionResult Test(string name)
+        {
+            return Ok($"Test successfull, {name}");
+        }
     }
 }
