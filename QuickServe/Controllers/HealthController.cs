@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace QuickServe.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("health")]
     public class HealthController : ControllerBase
     {
 
@@ -13,10 +13,5 @@ namespace QuickServe.Controllers
             return Ok("QuickServe Rest API is running");
         }
 
-        [HttpGet("{name}")]
-        public IActionResult Test(string name)
-        {
-            return Ok($"Test successfull, {name}");
-        }
     }
 }

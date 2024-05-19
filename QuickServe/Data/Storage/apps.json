@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "initial_testing_app_01",
+    "Display": "Initial Testing App",
+    "Description": "A testing app for development.",
+    "RequiresAuthorization": false,
+    "Uuid": "f605b07f-eae8-41c4-9d86-76a25f4d1be7",
+    "CreatedOn": "2024-05-20T14:34:56.7890123+02:00"
+  },
+  {
+    "Name": "deck_den",
+    "Display": "Deck Den",
+    "Description": "A pokemon TCG management system",
+    "RequiresAuthorization": false,
+    "Uuid": "7c8613b8-3fa7-42d4-964a-bd7097779e71",
+    "CreatedOn": "2024-05-20T01:01:50.5134365+02:00"
+  }
+]
