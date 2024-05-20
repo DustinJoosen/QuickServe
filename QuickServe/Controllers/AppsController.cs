@@ -15,13 +15,16 @@ namespace QuickServe.Controllers
 
         private readonly IAppService _appService;
         private readonly IFileService _fileService;
+        private readonly IDataService _dataService;
         private readonly IMapper _mapper;
 
-        public AppsController(IAppService appService, IFileService fileService, IMapper mapper)
+        public AppsController(IAppService appService, IFileService fileService, 
+            IDataService dataService, IMapper mapper)
         {
             this._appService = appService;
             this._fileService = fileService;
             this._mapper = mapper;
+            this._dataService = dataService;
         }
 
         [HttpGet]
@@ -92,6 +95,7 @@ namespace QuickServe.Controllers
 
             // Remove all files associated with the app.
             this._fileService.RemoveAppFiles(app);
+            this._dataService.DeleteDataFile(app);
 
             if (!succeeded)
                 return BadRequest("Could not delete app");
