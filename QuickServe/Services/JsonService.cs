@@ -14,7 +14,7 @@ namespace QuickServe.Services
 
         public T? GetFileContent<T>(string fileName)
         {
-            string filePath = $"Data/Storage/{fileName}";
+            string filePath = $"Data/{fileName}";
 
             try
             {
@@ -30,7 +30,7 @@ namespace QuickServe.Services
 
         public bool SetFileContent<T>(string fileName, T value)
         {
-            string filePath = $"Data/Storage/{fileName}";
+            string filePath = $"Data/{fileName}";
 
             try
             {

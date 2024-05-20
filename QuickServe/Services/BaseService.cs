@@ -6,8 +6,8 @@ namespace QuickServe.Services
     public abstract class BaseService<T> : IBaseService<T>
         where T : IdentifiableEntity
     {
-        private IJsonService _jsonService;
-        private string _fileName;
+        protected IJsonService _jsonService;
+        protected string _fileName;
 
         public BaseService(IJsonService jsonService, string fileName)
         {
@@ -15,13 +15,13 @@ namespace QuickServe.Services
             this._fileName = fileName;
         }
 
-        public List<T> GetAll()
+        public virtual List<T> GetAll()
         {
             var entities = this._jsonService.GetFileContent<List<T>>(this._fileName);
             return entities ?? [];
         }
 
-        public T? GetById(Guid uuid)
+        public virtual T? GetById(Guid uuid)
         {
             var entities = this._jsonService.GetFileContent<List<T>>(this._fileName);
             if (entities == null)
@@ -33,17 +33,22 @@ namespace QuickServe.Services
             return entities.FirstOrDefault(entity => entity.Uuid == uuid);
         }
 
-        public bool Create(T entity)
+        public virtual T? Create(T entity)
         {
+            entity.Uuid = Guid.NewGuid();
+            entity.CreatedOn = DateTime.Now;
+
             var entities = this._jsonService.GetFileContent<List<T>>(this._fileName);
             if (entities == null)
-                return false;
+                return null;
 
             entities.Add(entity);
-            return this._jsonService.SetFileContent(this._fileName, entities);
+            this._jsonService.SetFileContent(this._fileName, entities);
+
+            return entity;
         }
 
-        public bool Update(Guid uuid, T entity)
+        public virtual bool Update(Guid uuid, T entity)
         {
             var entities = this._jsonService.GetFileContent<List<T>>(this._fileName);
             if (entities == null)
@@ -59,7 +64,7 @@ namespace QuickServe.Services
 
         }
 
-        public bool Delete(T entity)
+        public virtual bool Delete(T entity)
         {
             var entities = this._jsonService.GetFileContent<List<T>>(this._fileName);
             if (entities == null)

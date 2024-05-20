@@ -13,11 +13,14 @@ namespace QuickServe.Controllers
     public class AppsController : ControllerBase
     {
 
-        private IAppService _appService;
-        private IMapper _mapper;
-        public AppsController(IAppService appService, IMapper mapper)
+        private readonly IAppService _appService;
+        private readonly IFileService _fileService;
+        private readonly IMapper _mapper;
+
+        public AppsController(IAppService appService, IFileService fileService, IMapper mapper)
         {
             this._appService = appService;
+            this._fileService = fileService;
             this._mapper = mapper;
         }
 
@@ -48,12 +51,12 @@ namespace QuickServe.Controllers
         public IActionResult Create([FromBody]AppCreationDto appCreation)
         {
             var app = this._mapper.Map<App>(appCreation);
-            var succeeded = this._appService.Create(app);
+            var createdApp = this._appService.Create(app);
 
-            if (!succeeded)
+            if (createdApp == null)
                 return BadRequest("Could not create app");
 
-            return Ok(app);
+            return Ok(createdApp);
         }
 
         [HttpPut]
@@ -86,6 +89,9 @@ namespace QuickServe.Controllers
                 return NotFound();
 
             var succeeded = this._appService.Delete(app);
+
+            // Remove all files associated with the app.
+            this._fileService.RemoveAppFiles(app);
 
             if (!succeeded)
                 return BadRequest("Could not delete app");

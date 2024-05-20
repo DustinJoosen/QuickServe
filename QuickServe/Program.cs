@@ -1,4 +1,5 @@
 using Microsoft.Extensions.Options;
+using Microsoft.OpenApi.Models;
 using QuickServe.Services;
 using QuickServe.Services.Interfaces;
 using System.Reflection;
@@ -7,6 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddScoped<IJsonService, JsonService>();
 builder.Services.AddScoped<IAppService, AppService>();
+builder.Services.AddScoped<IFileService, FileService>();
 
 builder.Services.AddAutoMapper(typeof(Program));
 

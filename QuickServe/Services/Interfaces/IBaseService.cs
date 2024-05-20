@@ -21,8 +21,8 @@ namespace QuickServe.Services.Interfaces
         /// Attempts to create an entity
         /// </summary>
         /// <param name="entity">Entity to create</param>
-        /// <returns>Boolean determining wether the process succeeded</returns>
-        public bool Create(T entity);
+        /// <returns>The created entity</returns>
+        public T? Create(T entity);
 
         /// <summary>
         /// Attempts to update an entity
