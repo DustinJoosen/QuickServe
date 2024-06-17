@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using QuickServe.Attributes;
 using QuickServe.Dtos;
 using QuickServe.Entities;
 using QuickServe.Services;
@@ -14,17 +15,19 @@ namespace QuickServe.Controllers
     {
 
         private readonly IAppService _appService;
+        private readonly IApiKeyService _apiKeyService;
         private readonly IFileService _fileService;
         private readonly IDataService _dataService;
         private readonly IMapper _mapper;
 
         public AppsController(IAppService appService, IFileService fileService, 
-            IDataService dataService, IMapper mapper)
+            IDataService dataService, IMapper mapper, IApiKeyService apiKeyService)
         {
             this._appService = appService;
             this._fileService = fileService;
             this._mapper = mapper;
             this._dataService = dataService;
+            this._apiKeyService = apiKeyService;
         }
 
         [HttpGet]
@@ -39,10 +42,11 @@ namespace QuickServe.Controllers
         }
 
         [HttpGet]
-        [Route("{uuid:Guid}")]
-        public IActionResult GetById([FromRoute]Guid uuid)
+        [Route("{appId:Guid}")]
+        [ApiKeyRequired]
+        public IActionResult GetById([FromRoute]Guid appId)
         {
-            var app = this._appService.GetById(uuid);
+            var app = this._appService.GetById(appId);
             if (app == null)
                 return NotFound();
 
@@ -62,11 +66,13 @@ namespace QuickServe.Controllers
             return Ok(createdApp);
         }
 
+
         [HttpPut]
-        [Route("{uuid:Guid}")]
-        public IActionResult Update([FromRoute]Guid uuid, [FromBody]AppUpdateDto appUpdate)
+        [Route("{appId:Guid}")]
+        [ApiKeyRequired]
+        public IActionResult Update([FromRoute]Guid appId, [FromBody]AppUpdateDto appUpdate)
         {
-            var app = this._appService.GetById(uuid);
+            var app = this._appService.GetById(appId);
             if (app == null)
                 return NotFound();
 
@@ -75,7 +81,7 @@ namespace QuickServe.Controllers
             app.Description = appUpdate.Description;
             app.RequiresAuthorization = appUpdate.RequiresAuthorization;
 
-            var succeeded = this._appService.Update(uuid, app);
+            var succeeded = this._appService.Update(appId, app);
 
             if (!succeeded)
                 return BadRequest("Could not delete app");
@@ -84,10 +90,11 @@ namespace QuickServe.Controllers
         }
 
         [HttpDelete]
-        [Route("{uuid:Guid}")]
-        public IActionResult Delete([FromRoute]Guid uuid)
+        [Route("{appId:Guid}")]
+        [ApiKeyRequired]
+        public IActionResult Delete([FromRoute]Guid appId)
         {
-            var app = this._appService.GetById(uuid);
+            var app = this._appService.GetById(appId);
             if (app == null)
                 return NotFound();
 

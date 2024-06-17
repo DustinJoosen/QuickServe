@@ -1,15 +1,17 @@
 using Microsoft.Extensions.Options;
 using Microsoft.OpenApi.Models;
+using QuickServe.Middleware;
 using QuickServe.Services;
 using QuickServe.Services.Interfaces;
 using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddScoped<IJsonService, JsonService>();
-builder.Services.AddScoped<IAppService, AppService>();
-builder.Services.AddScoped<IFileService, FileService>();
-builder.Services.AddScoped<IDataService, DataService>();
+builder.Services.AddSingleton<IJsonService, JsonService>();
+builder.Services.AddSingleton<IAppService, AppService>();
+builder.Services.AddSingleton<IApiKeyService, ApiKeyService>();
+builder.Services.AddSingleton<IFileService, FileService>();
+builder.Services.AddSingleton<IDataService, DataService>();
 
 builder.Services.AddAutoMapper(typeof(Program));
 
@@ -34,6 +36,28 @@ builder.Services.AddSwaggerGen(options =>
         </ul>
         """,
     });
+
+    options.AddSecurityDefinition("X-API-KEY", new OpenApiSecurityScheme
+    {
+        Description = "ApiKey must appear in header",
+        Type = SecuritySchemeType.ApiKey,
+        Name = "X-API-KEY",
+        In = ParameterLocation.Header,
+        Scheme = "ApiKeyScheme"
+    });
+
+    var key = new OpenApiSecurityScheme()
+    {
+        Reference = new OpenApiReference
+        {
+            Type = ReferenceType.SecurityScheme,
+            Id = "X-API-KEY"
+        },
+        In = ParameterLocation.Header
+    };
+
+    options.AddSecurityRequirement(new OpenApiSecurityRequirement { { key, new string[] { } } });
+
 });
 
 builder.Services.AddCors(options =>
@@ -52,6 +76,8 @@ app.UseSwagger();
 app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
+
+app.UseMiddleware<ApiKeyMiddleware>();
 
 app.UseCors("AllowAll");
 

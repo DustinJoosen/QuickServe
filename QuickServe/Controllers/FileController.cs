@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using QuickServe.Attributes;
 using QuickServe.Services.Interfaces;
 
 namespace QuickServe.Controllers
@@ -24,6 +25,7 @@ namespace QuickServe.Controllers
 
         [HttpGet]
         [Route("{appId:Guid}")]
+        [ApiKeyRequired]
         public IActionResult Get([FromRoute]Guid appId)
         {
             // Check wether app exists
@@ -37,6 +39,7 @@ namespace QuickServe.Controllers
 
         [HttpGet]
         [Route("{appId:Guid}/{fileId:Guid}")]
+        [ApiKeyRequired]
         public Stream? Get([FromRoute]Guid appId, [FromRoute]Guid fileId)
         {
             // Check wether app exists
@@ -55,6 +58,7 @@ namespace QuickServe.Controllers
 
         [HttpPost]
         [Route("{appId:Guid}")]
+        [ApiKeyRequired]
         public IActionResult Upload([FromRoute]Guid appId, IFormFile formFile)
         {
             // Check wether app exists
@@ -80,6 +84,7 @@ namespace QuickServe.Controllers
 
         [HttpPut]
         [Route("{appId:Guid}/{fileId:Guid}")]
+        [ApiKeyRequired]
         public IActionResult Update([FromRoute]Guid appId, [FromRoute]Guid fileId, IFormFile formFile)
         {
             // Check wether app exists
@@ -99,9 +104,6 @@ namespace QuickServe.Controllers
             string newFileName = this._fileService.Upload(appId, formFile);
 
             // Update file info and save.
-            if (file == null)
-                return NotFound();
-
             file.FileName = newFileName;
             var succeeded = this._fileService.Update(fileId, file);
 
@@ -113,6 +115,7 @@ namespace QuickServe.Controllers
 
         [HttpDelete]
         [Route("{appId:Guid}/{fileId:Guid}")]
+        [ApiKeyRequired]
         public IActionResult Delete([FromRoute]Guid appId, [FromRoute]Guid fileId)
         {
             // Check wether app exists.

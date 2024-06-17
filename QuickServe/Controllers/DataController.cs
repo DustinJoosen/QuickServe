@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using QuickServe.Attributes;
 using QuickServe.Services.Interfaces;
 
 namespace QuickServe.Controllers
@@ -18,6 +19,7 @@ namespace QuickServe.Controllers
 
         [HttpGet]
         [Route("{appId:Guid}")]
+        [ApiKeyRequired]
         public IActionResult Get([FromRoute]Guid appId)
         {
             // Check wether app exists
@@ -35,6 +37,7 @@ namespace QuickServe.Controllers
 
         [HttpPut]
         [Route("{appId:Guid}")]
+        [ApiKeyRequired]
         public IActionResult Set([FromRoute] Guid appId, [FromBody]string contents)
         {
             // Check wether app exists

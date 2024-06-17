@@ -2,11 +2,10 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace QuickServe.Controllers
 {
-    [ApiController]
     [Route("health")]
+    [ApiController]
     public class HealthController : ControllerBase
     {
-
         [HttpGet]
         public IActionResult Health()
         {
