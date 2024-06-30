@@ -5,6 +5,30 @@
     "Description": "A pokemon TCG management system",
     "RequiresAuthorization": false,
     "Uuid": "7c8613b8-3fa7-42d4-964a-bd7097779e71",
-    "CreatedOn": "2024-05-20T01:01:50.5134365+02:00"
+    "CreatedOn": "2024-05-19T23:01:50.5134365+00:00"
+  },
+  {
+    "Name": "burpsuite",
+    "Display": "Burp Suite Exercises",
+    "Description": "Some exercises with Burp Suite",
+    "RequiresAuthorization": false,
+    "Uuid": "152ca4f3-a87b-4490-8c3c-04977b4128df",
+    "CreatedOn": "2024-05-22T20:09:42.967185+00:00"
+  },
+  {
+    "Name": "eevee_ribbon_race",
+    "Display": "Eevee Ribbon Race!",
+    "Description": "Files for the eevee ribbon race with Jaimie",
+    "RequiresAuthorization": false,
+    "Uuid": "a0c5ad73-1887-4324-9d1f-dc1b226840c3",
+    "CreatedOn": "2024-06-09T20:40:51.7146293+00:00"
+  },
+  {
+    "Name": "deck_den_backup",
+    "Display": "Deck Den Backup",
+    "Description": "A temporarily app where I can store my data for my own tgc, while it is now gonna be used for jaimie\u0027s leftovers",
+    "RequiresAuthorization": false,
+    "Uuid": "73281a52-a288-4875-8c7e-bc6eee96b83b",
+    "CreatedOn": "2024-06-17T11:50:21.2855354+00:00"
   }
 ]

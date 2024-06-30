@@ -12,7 +12,7 @@
   {
     "dex": 2,
     "name": "ivysaur",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "poison"
@@ -22,7 +22,7 @@
   {
     "dex": 3,
     "name": "venusaur",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "poison"
@@ -41,7 +41,7 @@
   {
     "dex": 5,
     "name": "charmeleon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -50,7 +50,7 @@
   {
     "dex": 6,
     "name": "charizard",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "flying"
@@ -69,7 +69,7 @@
   {
     "dex": 8,
     "name": "wartortle",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -78,7 +78,7 @@
   {
     "dex": 9,
     "name": "blastoise",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -87,7 +87,7 @@
   {
     "dex": 10,
     "name": "caterpie",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -96,7 +96,7 @@
   {
     "dex": 11,
     "name": "metapod",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -105,7 +105,7 @@
   {
     "dex": 12,
     "name": "butterfree",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "flying"
@@ -115,7 +115,7 @@
   {
     "dex": 13,
     "name": "weedle",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "poison"
@@ -125,7 +125,7 @@
   {
     "dex": 14,
     "name": "kakuna",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "poison"
@@ -135,7 +135,7 @@
   {
     "dex": 15,
     "name": "beedrill",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "poison"
@@ -145,7 +145,7 @@
   {
     "dex": 16,
     "name": "pidgey",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -155,7 +155,7 @@
   {
     "dex": 17,
     "name": "pidgeotto",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -165,7 +165,7 @@
   {
     "dex": 18,
     "name": "pidgeot",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -175,7 +175,7 @@
   {
     "dex": 19,
     "name": "rattata",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -184,7 +184,7 @@
   {
     "dex": 20,
     "name": "raticate",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -193,7 +193,7 @@
   {
     "dex": 21,
     "name": "spearow",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -203,7 +203,7 @@
   {
     "dex": 22,
     "name": "fearow",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -213,7 +213,7 @@
   {
     "dex": 23,
     "name": "ekans",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison"
     ],
@@ -222,7 +222,7 @@
   {
     "dex": 24,
     "name": "arbok",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison"
     ],
@@ -240,7 +240,7 @@
   {
     "dex": 26,
     "name": "raichu",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -249,7 +249,7 @@
   {
     "dex": 27,
     "name": "sandshrew",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground"
     ],
@@ -258,7 +258,7 @@
   {
     "dex": 28,
     "name": "sandslash",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground"
     ],
@@ -267,7 +267,7 @@
   {
     "dex": 29,
     "name": "nidoran-f",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison"
     ],
@@ -276,7 +276,7 @@
   {
     "dex": 30,
     "name": "nidorina",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison"
     ],
@@ -285,7 +285,7 @@
   {
     "dex": 31,
     "name": "nidoqueen",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison",
       "ground"
@@ -295,7 +295,7 @@
   {
     "dex": 32,
     "name": "nidoran-m",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison"
     ],
@@ -304,7 +304,7 @@
   {
     "dex": 33,
     "name": "nidorino",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison"
     ],
@@ -313,7 +313,7 @@
   {
     "dex": 34,
     "name": "nidoking",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison",
       "ground"
@@ -323,7 +323,7 @@
   {
     "dex": 35,
     "name": "clefairy",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy"
     ],
@@ -332,7 +332,7 @@
   {
     "dex": 36,
     "name": "clefable",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy"
     ],
@@ -341,7 +341,7 @@
   {
     "dex": 37,
     "name": "vulpix",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -369,7 +369,7 @@
   {
     "dex": 40,
     "name": "wigglytuff",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "fairy"
@@ -379,7 +379,7 @@
   {
     "dex": 41,
     "name": "zubat",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison",
       "flying"
@@ -389,7 +389,7 @@
   {
     "dex": 42,
     "name": "golbat",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison",
       "flying"
@@ -399,7 +399,7 @@
   {
     "dex": 43,
     "name": "oddish",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "poison"
@@ -409,7 +409,7 @@
   {
     "dex": 44,
     "name": "gloom",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "poison"
@@ -419,7 +419,7 @@
   {
     "dex": 45,
     "name": "vileplume",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "poison"
@@ -429,7 +429,7 @@
   {
     "dex": 46,
     "name": "paras",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "grass"
@@ -439,7 +439,7 @@
   {
     "dex": 47,
     "name": "parasect",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "grass"
@@ -449,7 +449,7 @@
   {
     "dex": 48,
     "name": "venonat",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "poison"
@@ -459,7 +459,7 @@
   {
     "dex": 49,
     "name": "venomoth",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "poison"
@@ -469,7 +469,7 @@
   {
     "dex": 50,
     "name": "diglett",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground"
     ],
@@ -478,7 +478,7 @@
   {
     "dex": 51,
     "name": "dugtrio",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground"
     ],
@@ -487,7 +487,7 @@
   {
     "dex": 52,
     "name": "meowth",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -496,7 +496,7 @@
   {
     "dex": 53,
     "name": "persian",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -505,7 +505,7 @@
   {
     "dex": 54,
     "name": "psyduck",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -514,7 +514,7 @@
   {
     "dex": 55,
     "name": "golduck",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -523,7 +523,7 @@
   {
     "dex": 56,
     "name": "mankey",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -532,7 +532,7 @@
   {
     "dex": 57,
     "name": "primeape",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -541,7 +541,7 @@
   {
     "dex": 58,
     "name": "growlithe",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -550,7 +550,7 @@
   {
     "dex": 59,
     "name": "arcanine",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -559,7 +559,7 @@
   {
     "dex": 60,
     "name": "poliwag",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -568,7 +568,7 @@
   {
     "dex": 61,
     "name": "poliwhirl",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -577,7 +577,7 @@
   {
     "dex": 62,
     "name": "poliwrath",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "fighting"
@@ -587,7 +587,7 @@
   {
     "dex": 63,
     "name": "abra",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -605,7 +605,7 @@
   {
     "dex": 65,
     "name": "alakazam",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -614,7 +614,7 @@
   {
     "dex": 66,
     "name": "machop",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -623,7 +623,7 @@
   {
     "dex": 67,
     "name": "machoke",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -632,7 +632,7 @@
   {
     "dex": 68,
     "name": "machamp",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -641,7 +641,7 @@
   {
     "dex": 69,
     "name": "bellsprout",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "poison"
@@ -651,7 +651,7 @@
   {
     "dex": 70,
     "name": "weepinbell",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "poison"
@@ -661,7 +661,7 @@
   {
     "dex": 71,
     "name": "victreebel",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "poison"
@@ -671,7 +671,7 @@
   {
     "dex": 72,
     "name": "tentacool",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "poison"
@@ -681,7 +681,7 @@
   {
     "dex": 73,
     "name": "tentacruel",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "poison"
@@ -691,7 +691,7 @@
   {
     "dex": 74,
     "name": "geodude",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "ground"
@@ -701,7 +701,7 @@
   {
     "dex": 75,
     "name": "graveler",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "ground"
@@ -711,7 +711,7 @@
   {
     "dex": 76,
     "name": "golem",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "ground"
@@ -721,7 +721,7 @@
   {
     "dex": 77,
     "name": "ponyta",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -730,7 +730,7 @@
   {
     "dex": 78,
     "name": "rapidash",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -739,7 +739,7 @@
   {
     "dex": 79,
     "name": "slowpoke",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "psychic"
@@ -749,7 +749,7 @@
   {
     "dex": 80,
     "name": "slowbro",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "psychic"
@@ -759,7 +759,7 @@
   {
     "dex": 81,
     "name": "magnemite",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric",
       "steel"
@@ -769,7 +769,7 @@
   {
     "dex": 82,
     "name": "magneton",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric",
       "steel"
@@ -779,7 +779,7 @@
   {
     "dex": 83,
     "name": "farfetchd",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -799,7 +799,7 @@
   {
     "dex": 85,
     "name": "dodrio",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -809,7 +809,7 @@
   {
     "dex": 86,
     "name": "seel",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -818,7 +818,7 @@
   {
     "dex": 87,
     "name": "dewgong",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "ice"
@@ -828,7 +828,7 @@
   {
     "dex": 88,
     "name": "grimer",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison"
     ],
@@ -837,7 +837,7 @@
   {
     "dex": 89,
     "name": "muk",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison"
     ],
@@ -846,7 +846,7 @@
   {
     "dex": 90,
     "name": "shellder",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -855,7 +855,7 @@
   {
     "dex": 91,
     "name": "cloyster",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "ice"
@@ -875,7 +875,7 @@
   {
     "dex": 93,
     "name": "haunter",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost",
       "poison"
@@ -885,7 +885,7 @@
   {
     "dex": 94,
     "name": "gengar",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost",
       "poison"
@@ -895,7 +895,7 @@
   {
     "dex": 95,
     "name": "onix",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "ground"
@@ -905,7 +905,7 @@
   {
     "dex": 96,
     "name": "drowzee",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -914,7 +914,7 @@
   {
     "dex": 97,
     "name": "hypno",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -923,7 +923,7 @@
   {
     "dex": 98,
     "name": "krabby",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -932,7 +932,7 @@
   {
     "dex": 99,
     "name": "kingler",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -941,7 +941,7 @@
   {
     "dex": 100,
     "name": "voltorb",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -959,7 +959,7 @@
   {
     "dex": 102,
     "name": "exeggcute",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "psychic"
@@ -969,7 +969,7 @@
   {
     "dex": 103,
     "name": "exeggutor",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "psychic"
@@ -979,7 +979,7 @@
   {
     "dex": 104,
     "name": "cubone",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground"
     ],
@@ -988,7 +988,7 @@
   {
     "dex": 105,
     "name": "marowak",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground"
     ],
@@ -997,7 +997,7 @@
   {
     "dex": 106,
     "name": "hitmonlee",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -1006,7 +1006,7 @@
   {
     "dex": 107,
     "name": "hitmonchan",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -1015,7 +1015,7 @@
   {
     "dex": 108,
     "name": "lickitung",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -1024,7 +1024,7 @@
   {
     "dex": 109,
     "name": "koffing",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison"
     ],
@@ -1033,7 +1033,7 @@
   {
     "dex": 110,
     "name": "weezing",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison"
     ],
@@ -1052,7 +1052,7 @@
   {
     "dex": 112,
     "name": "rhydon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground",
       "rock"
@@ -1062,7 +1062,7 @@
   {
     "dex": 113,
     "name": "chansey",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -1071,7 +1071,7 @@
   {
     "dex": 114,
     "name": "tangela",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -1080,7 +1080,7 @@
   {
     "dex": 115,
     "name": "kangaskhan",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -1089,7 +1089,7 @@
   {
     "dex": 116,
     "name": "horsea",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -1098,7 +1098,7 @@
   {
     "dex": 117,
     "name": "seadra",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -1107,7 +1107,7 @@
   {
     "dex": 118,
     "name": "goldeen",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -1116,7 +1116,7 @@
   {
     "dex": 119,
     "name": "seaking",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -1125,7 +1125,7 @@
   {
     "dex": 120,
     "name": "staryu",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -1134,7 +1134,7 @@
   {
     "dex": 121,
     "name": "starmie",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "psychic"
@@ -1144,7 +1144,7 @@
   {
     "dex": 122,
     "name": "mr-mime",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic",
       "fairy"
@@ -1164,7 +1164,7 @@
   {
     "dex": 124,
     "name": "jynx",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice",
       "psychic"
@@ -1174,7 +1174,7 @@
   {
     "dex": 125,
     "name": "electabuzz",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -1183,7 +1183,7 @@
   {
     "dex": 126,
     "name": "magmar",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -1192,7 +1192,7 @@
   {
     "dex": 127,
     "name": "pinsir",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -1201,7 +1201,7 @@
   {
     "dex": 128,
     "name": "tauros",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -1210,7 +1210,7 @@
   {
     "dex": 129,
     "name": "magikarp",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -1219,7 +1219,7 @@
   {
     "dex": 130,
     "name": "gyarados",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "flying"
@@ -1229,7 +1229,7 @@
   {
     "dex": 131,
     "name": "lapras",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "ice"
@@ -1239,7 +1239,7 @@
   {
     "dex": 132,
     "name": "ditto",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -1248,7 +1248,7 @@
   {
     "dex": 133,
     "name": "eevee",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -1257,7 +1257,7 @@
   {
     "dex": 134,
     "name": "vaporeon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -1266,7 +1266,7 @@
   {
     "dex": 135,
     "name": "jolteon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -1275,7 +1275,7 @@
   {
     "dex": 136,
     "name": "flareon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -1284,7 +1284,7 @@
   {
     "dex": 137,
     "name": "porygon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -1293,7 +1293,7 @@
   {
     "dex": 138,
     "name": "omanyte",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "water"
@@ -1303,7 +1303,7 @@
   {
     "dex": 139,
     "name": "omastar",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "water"
@@ -1313,7 +1313,7 @@
   {
     "dex": 140,
     "name": "kabuto",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "water"
@@ -1323,7 +1323,7 @@
   {
     "dex": 141,
     "name": "kabutops",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "water"
@@ -1333,7 +1333,7 @@
   {
     "dex": 142,
     "name": "aerodactyl",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "flying"
@@ -1343,7 +1343,7 @@
   {
     "dex": 143,
     "name": "snorlax",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -1362,7 +1362,7 @@
   {
     "dex": 145,
     "name": "zapdos",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric",
       "flying"
@@ -1372,7 +1372,7 @@
   {
     "dex": 146,
     "name": "moltres",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "flying"
@@ -1382,7 +1382,7 @@
   {
     "dex": 147,
     "name": "dratini",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon"
     ],
@@ -1391,7 +1391,7 @@
   {
     "dex": 148,
     "name": "dragonair",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon"
     ],
@@ -1400,7 +1400,7 @@
   {
     "dex": 149,
     "name": "dragonite",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "flying"
@@ -1410,7 +1410,7 @@
   {
     "dex": 150,
     "name": "mewtwo",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -1419,7 +1419,7 @@
   {
     "dex": 151,
     "name": "mew",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -1428,7 +1428,7 @@
   {
     "dex": 152,
     "name": "chikorita",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -1437,7 +1437,7 @@
   {
     "dex": 153,
     "name": "bayleef",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -1446,7 +1446,7 @@
   {
     "dex": 154,
     "name": "meganium",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -1455,7 +1455,7 @@
   {
     "dex": 155,
     "name": "cyndaquil",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -1464,7 +1464,7 @@
   {
     "dex": 156,
     "name": "quilava",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -1473,7 +1473,7 @@
   {
     "dex": 157,
     "name": "typhlosion",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -1482,7 +1482,7 @@
   {
     "dex": 158,
     "name": "totodile",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -1491,7 +1491,7 @@
   {
     "dex": 159,
     "name": "croconaw",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -1500,7 +1500,7 @@
   {
     "dex": 160,
     "name": "feraligatr",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -1509,7 +1509,7 @@
   {
     "dex": 161,
     "name": "sentret",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -1518,7 +1518,7 @@
   {
     "dex": 162,
     "name": "furret",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -1527,7 +1527,7 @@
   {
     "dex": 163,
     "name": "hoothoot",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -1537,7 +1537,7 @@
   {
     "dex": 164,
     "name": "noctowl",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -1547,7 +1547,7 @@
   {
     "dex": 165,
     "name": "ledyba",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "flying"
@@ -1557,7 +1557,7 @@
   {
     "dex": 166,
     "name": "ledian",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "flying"
@@ -1577,7 +1577,7 @@
   {
     "dex": 168,
     "name": "ariados",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "poison"
@@ -1587,7 +1587,7 @@
   {
     "dex": 169,
     "name": "crobat",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison",
       "flying"
@@ -1597,7 +1597,7 @@
   {
     "dex": 170,
     "name": "chinchou",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "electric"
@@ -1607,7 +1607,7 @@
   {
     "dex": 171,
     "name": "lanturn",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "electric"
@@ -1617,7 +1617,7 @@
   {
     "dex": 172,
     "name": "pichu",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -1626,7 +1626,7 @@
   {
     "dex": 173,
     "name": "cleffa",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy"
     ],
@@ -1635,7 +1635,7 @@
   {
     "dex": 174,
     "name": "igglybuff",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "fairy"
@@ -1645,7 +1645,7 @@
   {
     "dex": 175,
     "name": "togepi",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy"
     ],
@@ -1654,7 +1654,7 @@
   {
     "dex": 176,
     "name": "togetic",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy",
       "flying"
@@ -1664,7 +1664,7 @@
   {
     "dex": 177,
     "name": "natu",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic",
       "flying"
@@ -1674,7 +1674,7 @@
   {
     "dex": 178,
     "name": "xatu",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic",
       "flying"
@@ -1684,7 +1684,7 @@
   {
     "dex": 179,
     "name": "mareep",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -1693,7 +1693,7 @@
   {
     "dex": 180,
     "name": "flaaffy",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -1702,7 +1702,7 @@
   {
     "dex": 181,
     "name": "ampharos",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -1711,7 +1711,7 @@
   {
     "dex": 182,
     "name": "bellossom",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -1720,7 +1720,7 @@
   {
     "dex": 183,
     "name": "marill",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "fairy"
@@ -1730,7 +1730,7 @@
   {
     "dex": 184,
     "name": "azumarill",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "fairy"
@@ -1740,7 +1740,7 @@
   {
     "dex": 185,
     "name": "sudowoodo",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock"
     ],
@@ -1749,7 +1749,7 @@
   {
     "dex": 186,
     "name": "politoed",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -1758,7 +1758,7 @@
   {
     "dex": 187,
     "name": "hoppip",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "flying"
@@ -1768,7 +1768,7 @@
   {
     "dex": 188,
     "name": "skiploom",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "flying"
@@ -1778,7 +1778,7 @@
   {
     "dex": 189,
     "name": "jumpluff",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "flying"
@@ -1788,7 +1788,7 @@
   {
     "dex": 190,
     "name": "aipom",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -1797,7 +1797,7 @@
   {
     "dex": 191,
     "name": "sunkern",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -1806,7 +1806,7 @@
   {
     "dex": 192,
     "name": "sunflora",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -1815,7 +1815,7 @@
   {
     "dex": 193,
     "name": "yanma",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "flying"
@@ -1825,7 +1825,7 @@
   {
     "dex": 194,
     "name": "wooper",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "ground"
@@ -1835,7 +1835,7 @@
   {
     "dex": 195,
     "name": "quagsire",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "ground"
@@ -1845,7 +1845,7 @@
   {
     "dex": 196,
     "name": "espeon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -1854,7 +1854,7 @@
   {
     "dex": 197,
     "name": "umbreon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark"
     ],
@@ -1863,7 +1863,7 @@
   {
     "dex": 198,
     "name": "murkrow",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "flying"
@@ -1873,7 +1873,7 @@
   {
     "dex": 199,
     "name": "slowking",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "psychic"
@@ -1883,7 +1883,7 @@
   {
     "dex": 200,
     "name": "misdreavus",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost"
     ],
@@ -1892,7 +1892,7 @@
   {
     "dex": 201,
     "name": "unown",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -1901,7 +1901,7 @@
   {
     "dex": 202,
     "name": "wobbuffet",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -1910,7 +1910,7 @@
   {
     "dex": 203,
     "name": "girafarig",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "psychic"
@@ -1920,7 +1920,7 @@
   {
     "dex": 204,
     "name": "pineco",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -1929,7 +1929,7 @@
   {
     "dex": 205,
     "name": "forretress",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "steel"
@@ -1939,7 +1939,7 @@
   {
     "dex": 206,
     "name": "dunsparce",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -1948,7 +1948,7 @@
   {
     "dex": 207,
     "name": "gligar",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground",
       "flying"
@@ -1958,7 +1958,7 @@
   {
     "dex": 208,
     "name": "steelix",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "ground"
@@ -1968,7 +1968,7 @@
   {
     "dex": 209,
     "name": "snubbull",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy"
     ],
@@ -1977,7 +1977,7 @@
   {
     "dex": 210,
     "name": "granbull",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy"
     ],
@@ -1986,7 +1986,7 @@
   {
     "dex": 211,
     "name": "qwilfish",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "poison"
@@ -2006,7 +2006,7 @@
   {
     "dex": 213,
     "name": "shuckle",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "rock"
@@ -2016,7 +2016,7 @@
   {
     "dex": 214,
     "name": "heracross",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "fighting"
@@ -2026,7 +2026,7 @@
   {
     "dex": 215,
     "name": "sneasel",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "ice"
@@ -2036,7 +2036,7 @@
   {
     "dex": 216,
     "name": "teddiursa",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -2045,7 +2045,7 @@
   {
     "dex": 217,
     "name": "ursaring",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -2054,7 +2054,7 @@
   {
     "dex": 218,
     "name": "slugma",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -2063,7 +2063,7 @@
   {
     "dex": 219,
     "name": "magcargo",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "rock"
@@ -2073,7 +2073,7 @@
   {
     "dex": 220,
     "name": "swinub",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice",
       "ground"
@@ -2083,7 +2083,7 @@
   {
     "dex": 221,
     "name": "piloswine",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice",
       "ground"
@@ -2093,7 +2093,7 @@
   {
     "dex": 222,
     "name": "corsola",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "rock"
@@ -2103,7 +2103,7 @@
   {
     "dex": 223,
     "name": "remoraid",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -2112,7 +2112,7 @@
   {
     "dex": 224,
     "name": "octillery",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -2121,7 +2121,7 @@
   {
     "dex": 225,
     "name": "delibird",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice",
       "flying"
@@ -2131,7 +2131,7 @@
   {
     "dex": 226,
     "name": "mantine",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "flying"
@@ -2141,7 +2141,7 @@
   {
     "dex": 227,
     "name": "skarmory",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "flying"
@@ -2151,7 +2151,7 @@
   {
     "dex": 228,
     "name": "houndour",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "fire"
@@ -2161,7 +2161,7 @@
   {
     "dex": 229,
     "name": "houndoom",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "fire"
@@ -2171,7 +2171,7 @@
   {
     "dex": 230,
     "name": "kingdra",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "dragon"
@@ -2181,7 +2181,7 @@
   {
     "dex": 231,
     "name": "phanpy",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground"
     ],
@@ -2190,7 +2190,7 @@
   {
     "dex": 232,
     "name": "donphan",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground"
     ],
@@ -2199,7 +2199,7 @@
   {
     "dex": 233,
     "name": "porygon2",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -2208,7 +2208,7 @@
   {
     "dex": 234,
     "name": "stantler",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -2217,7 +2217,7 @@
   {
     "dex": 235,
     "name": "smeargle",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -2226,7 +2226,7 @@
   {
     "dex": 236,
     "name": "tyrogue",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -2235,7 +2235,7 @@
   {
     "dex": 237,
     "name": "hitmontop",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -2244,7 +2244,7 @@
   {
     "dex": 238,
     "name": "smoochum",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice",
       "psychic"
@@ -2254,7 +2254,7 @@
   {
     "dex": 239,
     "name": "elekid",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -2263,7 +2263,7 @@
   {
     "dex": 240,
     "name": "magby",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -2272,7 +2272,7 @@
   {
     "dex": 241,
     "name": "miltank",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -2281,7 +2281,7 @@
   {
     "dex": 242,
     "name": "blissey",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -2299,7 +2299,7 @@
   {
     "dex": 244,
     "name": "entei",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -2308,7 +2308,7 @@
   {
     "dex": 245,
     "name": "suicune",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -2317,7 +2317,7 @@
   {
     "dex": 246,
     "name": "larvitar",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "ground"
@@ -2327,7 +2327,7 @@
   {
     "dex": 247,
     "name": "pupitar",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "ground"
@@ -2337,7 +2337,7 @@
   {
     "dex": 248,
     "name": "tyranitar",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "dark"
@@ -2347,7 +2347,7 @@
   {
     "dex": 249,
     "name": "lugia",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic",
       "flying"
@@ -2357,7 +2357,7 @@
   {
     "dex": 250,
     "name": "ho-oh",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "flying"
@@ -2367,7 +2367,7 @@
   {
     "dex": 251,
     "name": "celebi",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic",
       "grass"
@@ -2377,7 +2377,7 @@
   {
     "dex": 252,
     "name": "treecko",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -2386,7 +2386,7 @@
   {
     "dex": 253,
     "name": "grovyle",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -2395,7 +2395,7 @@
   {
     "dex": 254,
     "name": "sceptile",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -2404,7 +2404,7 @@
   {
     "dex": 255,
     "name": "torchic",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -2413,7 +2413,7 @@
   {
     "dex": 256,
     "name": "combusken",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "fighting"
@@ -2423,7 +2423,7 @@
   {
     "dex": 257,
     "name": "blaziken",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "fighting"
@@ -2433,7 +2433,7 @@
   {
     "dex": 258,
     "name": "mudkip",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -2442,7 +2442,7 @@
   {
     "dex": 259,
     "name": "marshtomp",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "ground"
@@ -2452,7 +2452,7 @@
   {
     "dex": 260,
     "name": "swampert",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "ground"
@@ -2462,7 +2462,7 @@
   {
     "dex": 261,
     "name": "poochyena",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark"
     ],
@@ -2471,7 +2471,7 @@
   {
     "dex": 262,
     "name": "mightyena",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark"
     ],
@@ -2480,7 +2480,7 @@
   {
     "dex": 263,
     "name": "zigzagoon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -2489,7 +2489,7 @@
   {
     "dex": 264,
     "name": "linoone",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -2498,7 +2498,7 @@
   {
     "dex": 265,
     "name": "wurmple",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -2507,7 +2507,7 @@
   {
     "dex": 266,
     "name": "silcoon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -2516,7 +2516,7 @@
   {
     "dex": 267,
     "name": "beautifly",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "flying"
@@ -2526,7 +2526,7 @@
   {
     "dex": 268,
     "name": "cascoon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -2535,7 +2535,7 @@
   {
     "dex": 269,
     "name": "dustox",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "poison"
@@ -2545,7 +2545,7 @@
   {
     "dex": 270,
     "name": "lotad",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "grass"
@@ -2555,7 +2555,7 @@
   {
     "dex": 271,
     "name": "lombre",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "grass"
@@ -2575,7 +2575,7 @@
   {
     "dex": 273,
     "name": "seedot",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -2584,7 +2584,7 @@
   {
     "dex": 274,
     "name": "nuzleaf",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "dark"
@@ -2594,7 +2594,7 @@
   {
     "dex": 275,
     "name": "shiftry",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "dark"
@@ -2604,7 +2604,7 @@
   {
     "dex": 276,
     "name": "taillow",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -2614,7 +2614,7 @@
   {
     "dex": 277,
     "name": "swellow",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -2624,7 +2624,7 @@
   {
     "dex": 278,
     "name": "wingull",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "flying"
@@ -2634,7 +2634,7 @@
   {
     "dex": 279,
     "name": "pelipper",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "flying"
@@ -2644,7 +2644,7 @@
   {
     "dex": 280,
     "name": "ralts",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic",
       "fairy"
@@ -2654,7 +2654,7 @@
   {
     "dex": 281,
     "name": "kirlia",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic",
       "fairy"
@@ -2664,7 +2664,7 @@
   {
     "dex": 282,
     "name": "gardevoir",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic",
       "fairy"
@@ -2674,7 +2674,7 @@
   {
     "dex": 283,
     "name": "surskit",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "water"
@@ -2684,7 +2684,7 @@
   {
     "dex": 284,
     "name": "masquerain",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "flying"
@@ -2694,7 +2694,7 @@
   {
     "dex": 285,
     "name": "shroomish",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -2703,7 +2703,7 @@
   {
     "dex": 286,
     "name": "breloom",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "fighting"
@@ -2713,7 +2713,7 @@
   {
     "dex": 287,
     "name": "slakoth",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -2722,7 +2722,7 @@
   {
     "dex": 288,
     "name": "vigoroth",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -2731,7 +2731,7 @@
   {
     "dex": 289,
     "name": "slaking",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -2740,7 +2740,7 @@
   {
     "dex": 290,
     "name": "nincada",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "ground"
@@ -2750,7 +2750,7 @@
   {
     "dex": 291,
     "name": "ninjask",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "flying"
@@ -2770,7 +2770,7 @@
   {
     "dex": 293,
     "name": "whismur",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -2779,7 +2779,7 @@
   {
     "dex": 294,
     "name": "loudred",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -2788,7 +2788,7 @@
   {
     "dex": 295,
     "name": "exploud",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -2797,7 +2797,7 @@
   {
     "dex": 296,
     "name": "makuhita",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -2806,7 +2806,7 @@
   {
     "dex": 297,
     "name": "hariyama",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -2815,7 +2815,7 @@
   {
     "dex": 298,
     "name": "azurill",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "fairy"
@@ -2825,7 +2825,7 @@
   {
     "dex": 299,
     "name": "nosepass",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock"
     ],
@@ -2834,7 +2834,7 @@
   {
     "dex": 300,
     "name": "skitty",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -2843,7 +2843,7 @@
   {
     "dex": 301,
     "name": "delcatty",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -2852,7 +2852,7 @@
   {
     "dex": 302,
     "name": "sableye",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "ghost"
@@ -2862,7 +2862,7 @@
   {
     "dex": 303,
     "name": "mawile",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "fairy"
@@ -2872,7 +2872,7 @@
   {
     "dex": 304,
     "name": "aron",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "rock"
@@ -2882,7 +2882,7 @@
   {
     "dex": 305,
     "name": "lairon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "rock"
@@ -2892,7 +2892,7 @@
   {
     "dex": 306,
     "name": "aggron",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "rock"
@@ -2902,7 +2902,7 @@
   {
     "dex": 307,
     "name": "meditite",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting",
       "psychic"
@@ -2912,7 +2912,7 @@
   {
     "dex": 308,
     "name": "medicham",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting",
       "psychic"
@@ -2922,7 +2922,7 @@
   {
     "dex": 309,
     "name": "electrike",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -2931,7 +2931,7 @@
   {
     "dex": 310,
     "name": "manectric",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -2940,7 +2940,7 @@
   {
     "dex": 311,
     "name": "plusle",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -2949,7 +2949,7 @@
   {
     "dex": 312,
     "name": "minun",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -2958,7 +2958,7 @@
   {
     "dex": 313,
     "name": "volbeat",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -2967,7 +2967,7 @@
   {
     "dex": 314,
     "name": "illumise",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -2976,7 +2976,7 @@
   {
     "dex": 315,
     "name": "roselia",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "poison"
@@ -3004,7 +3004,7 @@
   {
     "dex": 318,
     "name": "carvanha",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "dark"
@@ -3014,7 +3014,7 @@
   {
     "dex": 319,
     "name": "sharpedo",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "dark"
@@ -3024,7 +3024,7 @@
   {
     "dex": 320,
     "name": "wailmer",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -3033,7 +3033,7 @@
   {
     "dex": 321,
     "name": "wailord",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -3042,7 +3042,7 @@
   {
     "dex": 322,
     "name": "numel",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "ground"
@@ -3052,7 +3052,7 @@
   {
     "dex": 323,
     "name": "camerupt",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "ground"
@@ -3062,7 +3062,7 @@
   {
     "dex": 324,
     "name": "torkoal",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -3071,7 +3071,7 @@
   {
     "dex": 325,
     "name": "spoink",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -3080,7 +3080,7 @@
   {
     "dex": 326,
     "name": "grumpig",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -3089,7 +3089,7 @@
   {
     "dex": 327,
     "name": "spinda",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -3098,7 +3098,7 @@
   {
     "dex": 328,
     "name": "trapinch",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground"
     ],
@@ -3107,7 +3107,7 @@
   {
     "dex": 329,
     "name": "vibrava",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground",
       "dragon"
@@ -3117,7 +3117,7 @@
   {
     "dex": 330,
     "name": "flygon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground",
       "dragon"
@@ -3127,7 +3127,7 @@
   {
     "dex": 331,
     "name": "cacnea",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -3136,7 +3136,7 @@
   {
     "dex": 332,
     "name": "cacturne",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "dark"
@@ -3146,7 +3146,7 @@
   {
     "dex": 333,
     "name": "swablu",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -3156,7 +3156,7 @@
   {
     "dex": 334,
     "name": "altaria",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "flying"
@@ -3166,7 +3166,7 @@
   {
     "dex": 335,
     "name": "zangoose",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -3175,7 +3175,7 @@
   {
     "dex": 336,
     "name": "seviper",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison"
     ],
@@ -3184,7 +3184,7 @@
   {
     "dex": 337,
     "name": "lunatone",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "psychic"
@@ -3194,7 +3194,7 @@
   {
     "dex": 338,
     "name": "solrock",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "psychic"
@@ -3224,7 +3224,7 @@
   {
     "dex": 341,
     "name": "corphish",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -3233,7 +3233,7 @@
   {
     "dex": 342,
     "name": "crawdaunt",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "dark"
@@ -3243,7 +3243,7 @@
   {
     "dex": 343,
     "name": "baltoy",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground",
       "psychic"
@@ -3253,7 +3253,7 @@
   {
     "dex": 344,
     "name": "claydol",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground",
       "psychic"
@@ -3263,7 +3263,7 @@
   {
     "dex": 345,
     "name": "lileep",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "grass"
@@ -3273,7 +3273,7 @@
   {
     "dex": 346,
     "name": "cradily",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "grass"
@@ -3283,7 +3283,7 @@
   {
     "dex": 347,
     "name": "anorith",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "bug"
@@ -3293,7 +3293,7 @@
   {
     "dex": 348,
     "name": "armaldo",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "bug"
@@ -3303,7 +3303,7 @@
   {
     "dex": 349,
     "name": "feebas",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -3312,7 +3312,7 @@
   {
     "dex": 350,
     "name": "milotic",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -3321,7 +3321,7 @@
   {
     "dex": 351,
     "name": "castform",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -3330,7 +3330,7 @@
   {
     "dex": 352,
     "name": "kecleon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -3339,7 +3339,7 @@
   {
     "dex": 353,
     "name": "shuppet",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost"
     ],
@@ -3348,7 +3348,7 @@
   {
     "dex": 354,
     "name": "banette",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost"
     ],
@@ -3357,7 +3357,7 @@
   {
     "dex": 355,
     "name": "duskull",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost"
     ],
@@ -3366,7 +3366,7 @@
   {
     "dex": 356,
     "name": "dusclops",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost"
     ],
@@ -3375,7 +3375,7 @@
   {
     "dex": 357,
     "name": "tropius",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "flying"
@@ -3385,7 +3385,7 @@
   {
     "dex": 358,
     "name": "chimecho",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -3394,7 +3394,7 @@
   {
     "dex": 359,
     "name": "absol",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark"
     ],
@@ -3412,7 +3412,7 @@
   {
     "dex": 361,
     "name": "snorunt",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice"
     ],
@@ -3421,7 +3421,7 @@
   {
     "dex": 362,
     "name": "glalie",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice"
     ],
@@ -3430,7 +3430,7 @@
   {
     "dex": 363,
     "name": "spheal",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice",
       "water"
@@ -3440,7 +3440,7 @@
   {
     "dex": 364,
     "name": "sealeo",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice",
       "water"
@@ -3450,7 +3450,7 @@
   {
     "dex": 365,
     "name": "walrein",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice",
       "water"
@@ -3460,7 +3460,7 @@
   {
     "dex": 366,
     "name": "clamperl",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -3478,7 +3478,7 @@
   {
     "dex": 368,
     "name": "gorebyss",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -3487,7 +3487,7 @@
   {
     "dex": 369,
     "name": "relicanth",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "rock"
@@ -3497,7 +3497,7 @@
   {
     "dex": 370,
     "name": "luvdisc",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -3506,7 +3506,7 @@
   {
     "dex": 371,
     "name": "bagon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon"
     ],
@@ -3515,7 +3515,7 @@
   {
     "dex": 372,
     "name": "shelgon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon"
     ],
@@ -3524,7 +3524,7 @@
   {
     "dex": 373,
     "name": "salamence",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "flying"
@@ -3534,7 +3534,7 @@
   {
     "dex": 374,
     "name": "beldum",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "psychic"
@@ -3544,7 +3544,7 @@
   {
     "dex": 375,
     "name": "metang",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "psychic"
@@ -3554,7 +3554,7 @@
   {
     "dex": 376,
     "name": "metagross",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "psychic"
@@ -3564,7 +3564,7 @@
   {
     "dex": 377,
     "name": "regirock",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock"
     ],
@@ -3573,7 +3573,7 @@
   {
     "dex": 378,
     "name": "regice",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice"
     ],
@@ -3582,7 +3582,7 @@
   {
     "dex": 379,
     "name": "registeel",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel"
     ],
@@ -3591,7 +3591,7 @@
   {
     "dex": 380,
     "name": "latias",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "psychic"
@@ -3601,7 +3601,7 @@
   {
     "dex": 381,
     "name": "latios",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "psychic"
@@ -3611,7 +3611,7 @@
   {
     "dex": 382,
     "name": "kyogre",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -3620,7 +3620,7 @@
   {
     "dex": 383,
     "name": "groudon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground"
     ],
@@ -3629,7 +3629,7 @@
   {
     "dex": 384,
     "name": "rayquaza",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "flying"
@@ -3639,7 +3639,7 @@
   {
     "dex": 385,
     "name": "jirachi",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "psychic"
@@ -3649,7 +3649,7 @@
   {
     "dex": 386,
     "name": "deoxys",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -3658,7 +3658,7 @@
   {
     "dex": 387,
     "name": "turtwig",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -3667,7 +3667,7 @@
   {
     "dex": 388,
     "name": "grotle",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -3676,7 +3676,7 @@
   {
     "dex": 389,
     "name": "torterra",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "ground"
@@ -3686,7 +3686,7 @@
   {
     "dex": 390,
     "name": "chimchar",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -3695,7 +3695,7 @@
   {
     "dex": 391,
     "name": "monferno",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "fighting"
@@ -3705,7 +3705,7 @@
   {
     "dex": 392,
     "name": "infernape",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "fighting"
@@ -3724,7 +3724,7 @@
   {
     "dex": 394,
     "name": "prinplup",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -3733,7 +3733,7 @@
   {
     "dex": 395,
     "name": "empoleon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "steel"
@@ -3743,7 +3743,7 @@
   {
     "dex": 396,
     "name": "starly",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -3753,7 +3753,7 @@
   {
     "dex": 397,
     "name": "staravia",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -3763,7 +3763,7 @@
   {
     "dex": 398,
     "name": "staraptor",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -3773,7 +3773,7 @@
   {
     "dex": 399,
     "name": "bidoof",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -3782,7 +3782,7 @@
   {
     "dex": 400,
     "name": "bibarel",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "water"
@@ -3792,7 +3792,7 @@
   {
     "dex": 401,
     "name": "kricketot",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -3801,7 +3801,7 @@
   {
     "dex": 402,
     "name": "kricketune",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -3810,7 +3810,7 @@
   {
     "dex": 403,
     "name": "shinx",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -3819,7 +3819,7 @@
   {
     "dex": 404,
     "name": "luxio",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -3828,7 +3828,7 @@
   {
     "dex": 405,
     "name": "luxray",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -3837,7 +3837,7 @@
   {
     "dex": 406,
     "name": "budew",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "poison"
@@ -3847,7 +3847,7 @@
   {
     "dex": 407,
     "name": "roserade",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "poison"
@@ -3857,7 +3857,7 @@
   {
     "dex": 408,
     "name": "cranidos",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock"
     ],
@@ -3875,7 +3875,7 @@
   {
     "dex": 410,
     "name": "shieldon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "steel"
@@ -3885,7 +3885,7 @@
   {
     "dex": 411,
     "name": "bastiodon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "steel"
@@ -3895,7 +3895,7 @@
   {
     "dex": 412,
     "name": "burmy",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -3904,7 +3904,7 @@
   {
     "dex": 413,
     "name": "wormadam",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "grass"
@@ -3914,7 +3914,7 @@
   {
     "dex": 414,
     "name": "mothim",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "flying"
@@ -3924,7 +3924,7 @@
   {
     "dex": 415,
     "name": "combee",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "flying"
@@ -3934,7 +3934,7 @@
   {
     "dex": 416,
     "name": "vespiquen",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "flying"
@@ -3944,7 +3944,7 @@
   {
     "dex": 417,
     "name": "pachirisu",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -3953,7 +3953,7 @@
   {
     "dex": 418,
     "name": "buizel",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -3962,7 +3962,7 @@
   {
     "dex": 419,
     "name": "floatzel",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -3971,7 +3971,7 @@
   {
     "dex": 420,
     "name": "cherubi",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -3980,7 +3980,7 @@
   {
     "dex": 421,
     "name": "cherrim",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -3989,7 +3989,7 @@
   {
     "dex": 422,
     "name": "shellos",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -3998,7 +3998,7 @@
   {
     "dex": 423,
     "name": "gastrodon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "ground"
@@ -4008,7 +4008,7 @@
   {
     "dex": 424,
     "name": "ambipom",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -4017,7 +4017,7 @@
   {
     "dex": 425,
     "name": "drifloon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost",
       "flying"
@@ -4027,7 +4027,7 @@
   {
     "dex": 426,
     "name": "drifblim",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost",
       "flying"
@@ -4037,7 +4037,7 @@
   {
     "dex": 427,
     "name": "buneary",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -4046,7 +4046,7 @@
   {
     "dex": 428,
     "name": "lopunny",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -4055,7 +4055,7 @@
   {
     "dex": 429,
     "name": "mismagius",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost"
     ],
@@ -4064,7 +4064,7 @@
   {
     "dex": 430,
     "name": "honchkrow",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "flying"
@@ -4074,7 +4074,7 @@
   {
     "dex": 431,
     "name": "glameow",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -4083,7 +4083,7 @@
   {
     "dex": 432,
     "name": "purugly",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -4101,7 +4101,7 @@
   {
     "dex": 434,
     "name": "stunky",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison",
       "dark"
@@ -4111,7 +4111,7 @@
   {
     "dex": 435,
     "name": "skuntank",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison",
       "dark"
@@ -4121,7 +4121,7 @@
   {
     "dex": 436,
     "name": "bronzor",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "psychic"
@@ -4131,7 +4131,7 @@
   {
     "dex": 437,
     "name": "bronzong",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "psychic"
@@ -4141,7 +4141,7 @@
   {
     "dex": 438,
     "name": "bonsly",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock"
     ],
@@ -4150,7 +4150,7 @@
   {
     "dex": 439,
     "name": "mime-jr",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic",
       "fairy"
@@ -4160,7 +4160,7 @@
   {
     "dex": 440,
     "name": "happiny",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -4169,7 +4169,7 @@
   {
     "dex": 441,
     "name": "chatot",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -4179,7 +4179,7 @@
   {
     "dex": 442,
     "name": "spiritomb",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost",
       "dark"
@@ -4189,7 +4189,7 @@
   {
     "dex": 443,
     "name": "gible",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "ground"
@@ -4199,7 +4199,7 @@
   {
     "dex": 444,
     "name": "gabite",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "ground"
@@ -4209,7 +4209,7 @@
   {
     "dex": 445,
     "name": "garchomp",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "ground"
@@ -4219,7 +4219,7 @@
   {
     "dex": 446,
     "name": "munchlax",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -4228,7 +4228,7 @@
   {
     "dex": 447,
     "name": "riolu",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -4237,7 +4237,7 @@
   {
     "dex": 448,
     "name": "lucario",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting",
       "steel"
@@ -4247,7 +4247,7 @@
   {
     "dex": 449,
     "name": "hippopotas",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground"
     ],
@@ -4256,7 +4256,7 @@
   {
     "dex": 450,
     "name": "hippowdon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground"
     ],
@@ -4265,7 +4265,7 @@
   {
     "dex": 451,
     "name": "skorupi",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison",
       "bug"
@@ -4275,7 +4275,7 @@
   {
     "dex": 452,
     "name": "drapion",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison",
       "dark"
@@ -4285,7 +4285,7 @@
   {
     "dex": 453,
     "name": "croagunk",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison",
       "fighting"
@@ -4295,7 +4295,7 @@
   {
     "dex": 454,
     "name": "toxicroak",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison",
       "fighting"
@@ -4305,7 +4305,7 @@
   {
     "dex": 455,
     "name": "carnivine",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -4314,7 +4314,7 @@
   {
     "dex": 456,
     "name": "finneon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -4323,7 +4323,7 @@
   {
     "dex": 457,
     "name": "lumineon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -4332,7 +4332,7 @@
   {
     "dex": 458,
     "name": "mantyke",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "flying"
@@ -4342,7 +4342,7 @@
   {
     "dex": 459,
     "name": "snover",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "ice"
@@ -4352,7 +4352,7 @@
   {
     "dex": 460,
     "name": "abomasnow",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "ice"
@@ -4362,7 +4362,7 @@
   {
     "dex": 461,
     "name": "weavile",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "ice"
@@ -4372,7 +4372,7 @@
   {
     "dex": 462,
     "name": "magnezone",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric",
       "steel"
@@ -4382,7 +4382,7 @@
   {
     "dex": 463,
     "name": "lickilicky",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -4391,7 +4391,7 @@
   {
     "dex": 464,
     "name": "rhyperior",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground",
       "rock"
@@ -4401,7 +4401,7 @@
   {
     "dex": 465,
     "name": "tangrowth",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -4410,7 +4410,7 @@
   {
     "dex": 466,
     "name": "electivire",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -4419,7 +4419,7 @@
   {
     "dex": 467,
     "name": "magmortar",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -4428,7 +4428,7 @@
   {
     "dex": 468,
     "name": "togekiss",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy",
       "flying"
@@ -4438,7 +4438,7 @@
   {
     "dex": 469,
     "name": "yanmega",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "flying"
@@ -4448,7 +4448,7 @@
   {
     "dex": 470,
     "name": "leafeon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -4457,7 +4457,7 @@
   {
     "dex": 471,
     "name": "glaceon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice"
     ],
@@ -4466,7 +4466,7 @@
   {
     "dex": 472,
     "name": "gliscor",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground",
       "flying"
@@ -4476,7 +4476,7 @@
   {
     "dex": 473,
     "name": "mamoswine",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice",
       "ground"
@@ -4486,7 +4486,7 @@
   {
     "dex": 474,
     "name": "porygon-z",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -4495,7 +4495,7 @@
   {
     "dex": 475,
     "name": "gallade",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic",
       "fighting"
@@ -4505,7 +4505,7 @@
   {
     "dex": 476,
     "name": "probopass",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "steel"
@@ -4515,7 +4515,7 @@
   {
     "dex": 477,
     "name": "dusknoir",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost"
     ],
@@ -4524,7 +4524,7 @@
   {
     "dex": 478,
     "name": "froslass",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice",
       "ghost"
@@ -4534,7 +4534,7 @@
   {
     "dex": 479,
     "name": "rotom",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric",
       "ghost"
@@ -4544,7 +4544,7 @@
   {
     "dex": 480,
     "name": "uxie",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -4562,7 +4562,7 @@
   {
     "dex": 482,
     "name": "azelf",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -4571,7 +4571,7 @@
   {
     "dex": 483,
     "name": "dialga",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "dragon"
@@ -4581,7 +4581,7 @@
   {
     "dex": 484,
     "name": "palkia",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "dragon"
@@ -4591,7 +4591,7 @@
   {
     "dex": 485,
     "name": "heatran",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "steel"
@@ -4601,7 +4601,7 @@
   {
     "dex": 486,
     "name": "regigigas",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -4610,7 +4610,7 @@
   {
     "dex": 487,
     "name": "giratina",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost",
       "dragon"
@@ -4629,7 +4629,7 @@
   {
     "dex": 489,
     "name": "phione",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -4638,7 +4638,7 @@
   {
     "dex": 490,
     "name": "manaphy",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -4647,7 +4647,7 @@
   {
     "dex": 491,
     "name": "darkrai",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark"
     ],
@@ -4665,7 +4665,7 @@
   {
     "dex": 493,
     "name": "arceus",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -4674,7 +4674,7 @@
   {
     "dex": 494,
     "name": "victini",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic",
       "fire"
@@ -4684,7 +4684,7 @@
   {
     "dex": 495,
     "name": "snivy",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -4693,7 +4693,7 @@
   {
     "dex": 496,
     "name": "servine",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -4702,7 +4702,7 @@
   {
     "dex": 497,
     "name": "serperior",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -4711,7 +4711,7 @@
   {
     "dex": 498,
     "name": "tepig",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -4720,7 +4720,7 @@
   {
     "dex": 499,
     "name": "pignite",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "fighting"
@@ -4730,7 +4730,7 @@
   {
     "dex": 500,
     "name": "emboar",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "fighting"
@@ -4740,7 +4740,7 @@
   {
     "dex": 501,
     "name": "oshawott",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -4749,7 +4749,7 @@
   {
     "dex": 502,
     "name": "dewott",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -4758,7 +4758,7 @@
   {
     "dex": 503,
     "name": "samurott",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -4767,7 +4767,7 @@
   {
     "dex": 504,
     "name": "patrat",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -4785,7 +4785,7 @@
   {
     "dex": 506,
     "name": "lillipup",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -4794,7 +4794,7 @@
   {
     "dex": 507,
     "name": "herdier",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -4803,7 +4803,7 @@
   {
     "dex": 508,
     "name": "stoutland",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -4812,7 +4812,7 @@
   {
     "dex": 509,
     "name": "purrloin",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark"
     ],
@@ -4821,7 +4821,7 @@
   {
     "dex": 510,
     "name": "liepard",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark"
     ],
@@ -4830,7 +4830,7 @@
   {
     "dex": 511,
     "name": "pansage",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -4839,7 +4839,7 @@
   {
     "dex": 512,
     "name": "simisage",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -4848,7 +4848,7 @@
   {
     "dex": 513,
     "name": "pansear",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -4857,7 +4857,7 @@
   {
     "dex": 514,
     "name": "simisear",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -4866,7 +4866,7 @@
   {
     "dex": 515,
     "name": "panpour",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -4875,7 +4875,7 @@
   {
     "dex": 516,
     "name": "simipour",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -4884,7 +4884,7 @@
   {
     "dex": 517,
     "name": "munna",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -4893,7 +4893,7 @@
   {
     "dex": 518,
     "name": "musharna",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -4902,7 +4902,7 @@
   {
     "dex": 519,
     "name": "pidove",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -4922,7 +4922,7 @@
   {
     "dex": 521,
     "name": "unfezant",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -4932,7 +4932,7 @@
   {
     "dex": 522,
     "name": "blitzle",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -4941,7 +4941,7 @@
   {
     "dex": 523,
     "name": "zebstrika",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -4950,7 +4950,7 @@
   {
     "dex": 524,
     "name": "roggenrola",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock"
     ],
@@ -4959,7 +4959,7 @@
   {
     "dex": 525,
     "name": "boldore",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock"
     ],
@@ -4968,7 +4968,7 @@
   {
     "dex": 526,
     "name": "gigalith",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock"
     ],
@@ -4977,7 +4977,7 @@
   {
     "dex": 527,
     "name": "woobat",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic",
       "flying"
@@ -4987,7 +4987,7 @@
   {
     "dex": 528,
     "name": "swoobat",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic",
       "flying"
@@ -4997,7 +4997,7 @@
   {
     "dex": 529,
     "name": "drilbur",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground"
     ],
@@ -5006,7 +5006,7 @@
   {
     "dex": 530,
     "name": "excadrill",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground",
       "steel"
@@ -5016,7 +5016,7 @@
   {
     "dex": 531,
     "name": "audino",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -5025,7 +5025,7 @@
   {
     "dex": 532,
     "name": "timburr",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -5034,7 +5034,7 @@
   {
     "dex": 533,
     "name": "gurdurr",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -5043,7 +5043,7 @@
   {
     "dex": 534,
     "name": "conkeldurr",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -5052,7 +5052,7 @@
   {
     "dex": 535,
     "name": "tympole",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -5061,7 +5061,7 @@
   {
     "dex": 536,
     "name": "palpitoad",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "ground"
@@ -5071,7 +5071,7 @@
   {
     "dex": 537,
     "name": "seismitoad",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "ground"
@@ -5081,7 +5081,7 @@
   {
     "dex": 538,
     "name": "throh",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -5090,7 +5090,7 @@
   {
     "dex": 539,
     "name": "sawk",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -5099,7 +5099,7 @@
   {
     "dex": 540,
     "name": "sewaddle",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "grass"
@@ -5109,7 +5109,7 @@
   {
     "dex": 541,
     "name": "swadloon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "grass"
@@ -5129,7 +5129,7 @@
   {
     "dex": 543,
     "name": "venipede",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "poison"
@@ -5139,7 +5139,7 @@
   {
     "dex": 544,
     "name": "whirlipede",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "poison"
@@ -5149,7 +5149,7 @@
   {
     "dex": 545,
     "name": "scolipede",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "poison"
@@ -5159,7 +5159,7 @@
   {
     "dex": 546,
     "name": "cottonee",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "fairy"
@@ -5169,7 +5169,7 @@
   {
     "dex": 547,
     "name": "whimsicott",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "fairy"
@@ -5179,7 +5179,7 @@
   {
     "dex": 548,
     "name": "petilil",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -5188,7 +5188,7 @@
   {
     "dex": 549,
     "name": "lilligant",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -5197,7 +5197,7 @@
   {
     "dex": 550,
     "name": "basculin",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -5206,7 +5206,7 @@
   {
     "dex": 551,
     "name": "sandile",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground",
       "dark"
@@ -5216,7 +5216,7 @@
   {
     "dex": 552,
     "name": "krokorok",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground",
       "dark"
@@ -5226,7 +5226,7 @@
   {
     "dex": 553,
     "name": "krookodile",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground",
       "dark"
@@ -5236,7 +5236,7 @@
   {
     "dex": 554,
     "name": "darumaka",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -5245,7 +5245,7 @@
   {
     "dex": 555,
     "name": "darmanitan",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -5254,7 +5254,7 @@
   {
     "dex": 556,
     "name": "maractus",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -5263,7 +5263,7 @@
   {
     "dex": 557,
     "name": "dwebble",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "rock"
@@ -5273,7 +5273,7 @@
   {
     "dex": 558,
     "name": "crustle",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "rock"
@@ -5283,7 +5283,7 @@
   {
     "dex": 559,
     "name": "scraggy",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "fighting"
@@ -5293,7 +5293,7 @@
   {
     "dex": 560,
     "name": "scrafty",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "fighting"
@@ -5303,7 +5303,7 @@
   {
     "dex": 561,
     "name": "sigilyph",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic",
       "flying"
@@ -5313,7 +5313,7 @@
   {
     "dex": 562,
     "name": "yamask",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost"
     ],
@@ -5322,7 +5322,7 @@
   {
     "dex": 563,
     "name": "cofagrigus",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost"
     ],
@@ -5331,7 +5331,7 @@
   {
     "dex": 564,
     "name": "tirtouga",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "rock"
@@ -5351,7 +5351,7 @@
   {
     "dex": 566,
     "name": "archen",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "flying"
@@ -5371,7 +5371,7 @@
   {
     "dex": 568,
     "name": "trubbish",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison"
     ],
@@ -5380,7 +5380,7 @@
   {
     "dex": 569,
     "name": "garbodor",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison"
     ],
@@ -5389,7 +5389,7 @@
   {
     "dex": 570,
     "name": "zorua",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark"
     ],
@@ -5398,7 +5398,7 @@
   {
     "dex": 571,
     "name": "zoroark",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark"
     ],
@@ -5407,7 +5407,7 @@
   {
     "dex": 572,
     "name": "minccino",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -5416,7 +5416,7 @@
   {
     "dex": 573,
     "name": "cinccino",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -5425,7 +5425,7 @@
   {
     "dex": 574,
     "name": "gothita",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -5434,7 +5434,7 @@
   {
     "dex": 575,
     "name": "gothorita",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -5443,7 +5443,7 @@
   {
     "dex": 576,
     "name": "gothitelle",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -5461,7 +5461,7 @@
   {
     "dex": 578,
     "name": "duosion",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -5470,7 +5470,7 @@
   {
     "dex": 579,
     "name": "reuniclus",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -5479,7 +5479,7 @@
   {
     "dex": 580,
     "name": "ducklett",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "flying"
@@ -5489,7 +5489,7 @@
   {
     "dex": 581,
     "name": "swanna",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "flying"
@@ -5499,7 +5499,7 @@
   {
     "dex": 582,
     "name": "vanillite",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice"
     ],
@@ -5508,7 +5508,7 @@
   {
     "dex": 583,
     "name": "vanillish",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice"
     ],
@@ -5517,7 +5517,7 @@
   {
     "dex": 584,
     "name": "vanilluxe",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice"
     ],
@@ -5526,7 +5526,7 @@
   {
     "dex": 585,
     "name": "deerling",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "grass"
@@ -5536,7 +5536,7 @@
   {
     "dex": 586,
     "name": "sawsbuck",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "grass"
@@ -5546,7 +5546,7 @@
   {
     "dex": 587,
     "name": "emolga",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric",
       "flying"
@@ -5556,7 +5556,7 @@
   {
     "dex": 588,
     "name": "karrablast",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -5565,7 +5565,7 @@
   {
     "dex": 589,
     "name": "escavalier",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "steel"
@@ -5575,7 +5575,7 @@
   {
     "dex": 590,
     "name": "foongus",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "poison"
@@ -5585,7 +5585,7 @@
   {
     "dex": 591,
     "name": "amoonguss",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "poison"
@@ -5595,7 +5595,7 @@
   {
     "dex": 592,
     "name": "frillish",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "ghost"
@@ -5605,7 +5605,7 @@
   {
     "dex": 593,
     "name": "jellicent",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "ghost"
@@ -5615,7 +5615,7 @@
   {
     "dex": 594,
     "name": "alomomola",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -5624,7 +5624,7 @@
   {
     "dex": 595,
     "name": "joltik",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "electric"
@@ -5634,7 +5634,7 @@
   {
     "dex": 596,
     "name": "galvantula",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "electric"
@@ -5644,7 +5644,7 @@
   {
     "dex": 597,
     "name": "ferroseed",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "steel"
@@ -5654,7 +5654,7 @@
   {
     "dex": 598,
     "name": "ferrothorn",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "steel"
@@ -5664,7 +5664,7 @@
   {
     "dex": 599,
     "name": "klink",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel"
     ],
@@ -5673,7 +5673,7 @@
   {
     "dex": 600,
     "name": "klang",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel"
     ],
@@ -5682,7 +5682,7 @@
   {
     "dex": 601,
     "name": "klinklang",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel"
     ],
@@ -5691,7 +5691,7 @@
   {
     "dex": 602,
     "name": "tynamo",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -5700,7 +5700,7 @@
   {
     "dex": 603,
     "name": "eelektrik",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -5709,7 +5709,7 @@
   {
     "dex": 604,
     "name": "eelektross",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -5727,7 +5727,7 @@
   {
     "dex": 606,
     "name": "beheeyem",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -5736,7 +5736,7 @@
   {
     "dex": 607,
     "name": "litwick",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost",
       "fire"
@@ -5746,7 +5746,7 @@
   {
     "dex": 608,
     "name": "lampent",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost",
       "fire"
@@ -5756,7 +5756,7 @@
   {
     "dex": 609,
     "name": "chandelure",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost",
       "fire"
@@ -5766,7 +5766,7 @@
   {
     "dex": 610,
     "name": "axew",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon"
     ],
@@ -5775,7 +5775,7 @@
   {
     "dex": 611,
     "name": "fraxure",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon"
     ],
@@ -5784,7 +5784,7 @@
   {
     "dex": 612,
     "name": "haxorus",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon"
     ],
@@ -5793,7 +5793,7 @@
   {
     "dex": 613,
     "name": "cubchoo",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice"
     ],
@@ -5802,7 +5802,7 @@
   {
     "dex": 614,
     "name": "beartic",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice"
     ],
@@ -5811,7 +5811,7 @@
   {
     "dex": 615,
     "name": "cryogonal",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice"
     ],
@@ -5820,7 +5820,7 @@
   {
     "dex": 616,
     "name": "shelmet",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -5829,7 +5829,7 @@
   {
     "dex": 617,
     "name": "accelgor",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -5838,7 +5838,7 @@
   {
     "dex": 618,
     "name": "stunfisk",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground",
       "electric"
@@ -5848,7 +5848,7 @@
   {
     "dex": 619,
     "name": "mienfoo",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -5857,7 +5857,7 @@
   {
     "dex": 620,
     "name": "mienshao",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -5866,7 +5866,7 @@
   {
     "dex": 621,
     "name": "druddigon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon"
     ],
@@ -5875,7 +5875,7 @@
   {
     "dex": 622,
     "name": "golett",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground",
       "ghost"
@@ -5895,7 +5895,7 @@
   {
     "dex": 624,
     "name": "pawniard",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "steel"
@@ -5905,7 +5905,7 @@
   {
     "dex": 625,
     "name": "bisharp",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "steel"
@@ -5915,7 +5915,7 @@
   {
     "dex": 626,
     "name": "bouffalant",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -5924,7 +5924,7 @@
   {
     "dex": 627,
     "name": "rufflet",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -5934,7 +5934,7 @@
   {
     "dex": 628,
     "name": "braviary",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -5944,7 +5944,7 @@
   {
     "dex": 629,
     "name": "vullaby",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "flying"
@@ -5954,7 +5954,7 @@
   {
     "dex": 630,
     "name": "mandibuzz",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "flying"
@@ -5964,7 +5964,7 @@
   {
     "dex": 631,
     "name": "heatmor",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -5973,7 +5973,7 @@
   {
     "dex": 632,
     "name": "durant",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "steel"
@@ -5983,7 +5983,7 @@
   {
     "dex": 633,
     "name": "deino",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "dragon"
@@ -5993,7 +5993,7 @@
   {
     "dex": 634,
     "name": "zweilous",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "dragon"
@@ -6003,7 +6003,7 @@
   {
     "dex": 635,
     "name": "hydreigon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "dragon"
@@ -6013,7 +6013,7 @@
   {
     "dex": 636,
     "name": "larvesta",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "fire"
@@ -6023,7 +6023,7 @@
   {
     "dex": 637,
     "name": "volcarona",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "fire"
@@ -6033,7 +6033,7 @@
   {
     "dex": 638,
     "name": "cobalion",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "fighting"
@@ -6043,7 +6043,7 @@
   {
     "dex": 639,
     "name": "terrakion",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "fighting"
@@ -6053,7 +6053,7 @@
   {
     "dex": 640,
     "name": "virizion",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "fighting"
@@ -6063,7 +6063,7 @@
   {
     "dex": 641,
     "name": "tornadus",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "flying"
     ],
@@ -6072,7 +6072,7 @@
   {
     "dex": 642,
     "name": "thundurus",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric",
       "flying"
@@ -6082,7 +6082,7 @@
   {
     "dex": 643,
     "name": "reshiram",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "fire"
@@ -6092,7 +6092,7 @@
   {
     "dex": 644,
     "name": "zekrom",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "electric"
@@ -6102,7 +6102,7 @@
   {
     "dex": 645,
     "name": "landorus",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground",
       "flying"
@@ -6112,7 +6112,7 @@
   {
     "dex": 646,
     "name": "kyurem",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "ice"
@@ -6122,7 +6122,7 @@
   {
     "dex": 647,
     "name": "keldeo",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "fighting"
@@ -6132,7 +6132,7 @@
   {
     "dex": 648,
     "name": "meloetta",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "psychic"
@@ -6142,7 +6142,7 @@
   {
     "dex": 649,
     "name": "genesect",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "steel"
@@ -6170,7 +6170,7 @@
   {
     "dex": 652,
     "name": "chesnaught",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "fighting"
@@ -6180,7 +6180,7 @@
   {
     "dex": 653,
     "name": "fennekin",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -6189,7 +6189,7 @@
   {
     "dex": 654,
     "name": "braixen",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -6198,7 +6198,7 @@
   {
     "dex": 655,
     "name": "delphox",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "psychic"
@@ -6208,7 +6208,7 @@
   {
     "dex": 656,
     "name": "froakie",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -6217,7 +6217,7 @@
   {
     "dex": 657,
     "name": "frogadier",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -6226,7 +6226,7 @@
   {
     "dex": 658,
     "name": "greninja",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "dark"
@@ -6236,7 +6236,7 @@
   {
     "dex": 659,
     "name": "bunnelby",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -6245,7 +6245,7 @@
   {
     "dex": 660,
     "name": "diggersby",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "ground"
@@ -6255,7 +6255,7 @@
   {
     "dex": 661,
     "name": "fletchling",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -6265,7 +6265,7 @@
   {
     "dex": 662,
     "name": "fletchinder",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "flying"
@@ -6275,7 +6275,7 @@
   {
     "dex": 663,
     "name": "talonflame",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "flying"
@@ -6285,7 +6285,7 @@
   {
     "dex": 664,
     "name": "scatterbug",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -6294,7 +6294,7 @@
   {
     "dex": 665,
     "name": "spewpa",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -6313,7 +6313,7 @@
   {
     "dex": 667,
     "name": "litleo",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "normal"
@@ -6323,7 +6323,7 @@
   {
     "dex": 668,
     "name": "pyroar",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "normal"
@@ -6333,7 +6333,7 @@
   {
     "dex": 669,
     "name": "flabebe",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy"
     ],
@@ -6342,7 +6342,7 @@
   {
     "dex": 670,
     "name": "floette",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy"
     ],
@@ -6351,7 +6351,7 @@
   {
     "dex": 671,
     "name": "florges",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy"
     ],
@@ -6360,7 +6360,7 @@
   {
     "dex": 672,
     "name": "skiddo",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -6369,7 +6369,7 @@
   {
     "dex": 673,
     "name": "gogoat",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -6378,7 +6378,7 @@
   {
     "dex": 674,
     "name": "pancham",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -6387,7 +6387,7 @@
   {
     "dex": 675,
     "name": "pangoro",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting",
       "dark"
@@ -6397,7 +6397,7 @@
   {
     "dex": 676,
     "name": "furfrou",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -6406,7 +6406,7 @@
   {
     "dex": 677,
     "name": "espurr",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -6415,7 +6415,7 @@
   {
     "dex": 678,
     "name": "meowstic",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -6424,7 +6424,7 @@
   {
     "dex": 679,
     "name": "honedge",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "ghost"
@@ -6434,7 +6434,7 @@
   {
     "dex": 680,
     "name": "doublade",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "ghost"
@@ -6444,7 +6444,7 @@
   {
     "dex": 681,
     "name": "aegislash",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "ghost"
@@ -6463,7 +6463,7 @@
   {
     "dex": 683,
     "name": "aromatisse",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy"
     ],
@@ -6472,7 +6472,7 @@
   {
     "dex": 684,
     "name": "swirlix",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy"
     ],
@@ -6481,7 +6481,7 @@
   {
     "dex": 685,
     "name": "slurpuff",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy"
     ],
@@ -6490,7 +6490,7 @@
   {
     "dex": 686,
     "name": "inkay",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "psychic"
@@ -6500,7 +6500,7 @@
   {
     "dex": 687,
     "name": "malamar",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "psychic"
@@ -6510,7 +6510,7 @@
   {
     "dex": 688,
     "name": "binacle",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "water"
@@ -6520,7 +6520,7 @@
   {
     "dex": 689,
     "name": "barbaracle",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "water"
@@ -6530,7 +6530,7 @@
   {
     "dex": 690,
     "name": "skrelp",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison",
       "water"
@@ -6540,7 +6540,7 @@
   {
     "dex": 691,
     "name": "dragalge",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison",
       "dragon"
@@ -6550,7 +6550,7 @@
   {
     "dex": 692,
     "name": "clauncher",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -6559,7 +6559,7 @@
   {
     "dex": 693,
     "name": "clawitzer",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -6568,7 +6568,7 @@
   {
     "dex": 694,
     "name": "helioptile",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric",
       "normal"
@@ -6578,7 +6578,7 @@
   {
     "dex": 695,
     "name": "heliolisk",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric",
       "normal"
@@ -6588,7 +6588,7 @@
   {
     "dex": 696,
     "name": "tyrunt",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "dragon"
@@ -6628,7 +6628,7 @@
   {
     "dex": 700,
     "name": "sylveon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy"
     ],
@@ -6637,7 +6637,7 @@
   {
     "dex": 701,
     "name": "hawlucha",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting",
       "flying"
@@ -6647,7 +6647,7 @@
   {
     "dex": 702,
     "name": "dedenne",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric",
       "fairy"
@@ -6657,7 +6657,7 @@
   {
     "dex": 703,
     "name": "carbink",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "fairy"
@@ -6667,7 +6667,7 @@
   {
     "dex": 704,
     "name": "goomy",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon"
     ],
@@ -6676,7 +6676,7 @@
   {
     "dex": 705,
     "name": "sliggoo",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon"
     ],
@@ -6685,7 +6685,7 @@
   {
     "dex": 706,
     "name": "goodra",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon"
     ],
@@ -6694,7 +6694,7 @@
   {
     "dex": 707,
     "name": "klefki",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "fairy"
@@ -6704,7 +6704,7 @@
   {
     "dex": 708,
     "name": "phantump",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost",
       "grass"
@@ -6714,7 +6714,7 @@
   {
     "dex": 709,
     "name": "trevenant",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost",
       "grass"
@@ -6724,7 +6724,7 @@
   {
     "dex": 710,
     "name": "pumpkaboo",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost",
       "grass"
@@ -6734,7 +6734,7 @@
   {
     "dex": 711,
     "name": "gourgeist",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost",
       "grass"
@@ -6744,7 +6744,7 @@
   {
     "dex": 712,
     "name": "bergmite",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice"
     ],
@@ -6753,7 +6753,7 @@
   {
     "dex": 713,
     "name": "avalugg",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice"
     ],
@@ -6762,7 +6762,7 @@
   {
     "dex": 714,
     "name": "noibat",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "flying",
       "dragon"
@@ -6772,7 +6772,7 @@
   {
     "dex": 715,
     "name": "noivern",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "flying",
       "dragon"
@@ -6782,7 +6782,7 @@
   {
     "dex": 716,
     "name": "xerneas",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy"
     ],
@@ -6791,7 +6791,7 @@
   {
     "dex": 717,
     "name": "yveltal",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "flying"
@@ -6801,7 +6801,7 @@
   {
     "dex": 718,
     "name": "zygarde",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "ground"
@@ -6811,7 +6811,7 @@
   {
     "dex": 719,
     "name": "diancie",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "fairy"
@@ -6821,7 +6821,7 @@
   {
     "dex": 720,
     "name": "hoopa",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic",
       "ghost"
@@ -6831,7 +6831,7 @@
   {
     "dex": 721,
     "name": "volcanion",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "water"
@@ -6841,7 +6841,7 @@
   {
     "dex": 722,
     "name": "rowlet",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "flying"
@@ -6851,7 +6851,7 @@
   {
     "dex": 723,
     "name": "dartrix",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "flying"
@@ -6861,7 +6861,7 @@
   {
     "dex": 724,
     "name": "decidueye",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "ghost"
@@ -6871,7 +6871,7 @@
   {
     "dex": 725,
     "name": "litten",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -6880,7 +6880,7 @@
   {
     "dex": 726,
     "name": "torracat",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -6889,7 +6889,7 @@
   {
     "dex": 727,
     "name": "incineroar",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "dark"
@@ -6899,7 +6899,7 @@
   {
     "dex": 728,
     "name": "popplio",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -6908,7 +6908,7 @@
   {
     "dex": 729,
     "name": "brionne",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -6927,7 +6927,7 @@
   {
     "dex": 731,
     "name": "pikipek",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -6937,7 +6937,7 @@
   {
     "dex": 732,
     "name": "trumbeak",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -6957,7 +6957,7 @@
   {
     "dex": 734,
     "name": "yungoos",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -6966,7 +6966,7 @@
   {
     "dex": 735,
     "name": "gumshoos",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -6975,7 +6975,7 @@
   {
     "dex": 736,
     "name": "grubbin",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -6984,7 +6984,7 @@
   {
     "dex": 737,
     "name": "charjabug",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "electric"
@@ -6994,7 +6994,7 @@
   {
     "dex": 738,
     "name": "vikavolt",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "electric"
@@ -7004,7 +7004,7 @@
   {
     "dex": 739,
     "name": "crabrawler",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -7013,7 +7013,7 @@
   {
     "dex": 740,
     "name": "crabominable",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting",
       "ice"
@@ -7023,7 +7023,7 @@
   {
     "dex": 741,
     "name": "oricorio",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "flying"
@@ -7033,7 +7033,7 @@
   {
     "dex": 742,
     "name": "cutiefly",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "fairy"
@@ -7043,7 +7043,7 @@
   {
     "dex": 743,
     "name": "ribombee",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "fairy"
@@ -7053,7 +7053,7 @@
   {
     "dex": 744,
     "name": "rockruff",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock"
     ],
@@ -7062,7 +7062,7 @@
   {
     "dex": 745,
     "name": "lycanroc",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock"
     ],
@@ -7071,7 +7071,7 @@
   {
     "dex": 746,
     "name": "wishiwashi",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -7080,7 +7080,7 @@
   {
     "dex": 747,
     "name": "mareanie",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison",
       "water"
@@ -7090,7 +7090,7 @@
   {
     "dex": 748,
     "name": "toxapex",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison",
       "water"
@@ -7100,7 +7100,7 @@
   {
     "dex": 749,
     "name": "mudbray",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground"
     ],
@@ -7109,7 +7109,7 @@
   {
     "dex": 750,
     "name": "mudsdale",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground"
     ],
@@ -7118,7 +7118,7 @@
   {
     "dex": 751,
     "name": "dewpider",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "bug"
@@ -7128,7 +7128,7 @@
   {
     "dex": 752,
     "name": "araquanid",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "bug"
@@ -7138,7 +7138,7 @@
   {
     "dex": 753,
     "name": "fomantis",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -7147,7 +7147,7 @@
   {
     "dex": 754,
     "name": "lurantis",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -7156,7 +7156,7 @@
   {
     "dex": 755,
     "name": "morelull",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "fairy"
@@ -7166,7 +7166,7 @@
   {
     "dex": 756,
     "name": "shiinotic",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "fairy"
@@ -7176,7 +7176,7 @@
   {
     "dex": 757,
     "name": "salandit",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison",
       "fire"
@@ -7186,7 +7186,7 @@
   {
     "dex": 758,
     "name": "salazzle",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison",
       "fire"
@@ -7196,7 +7196,7 @@
   {
     "dex": 759,
     "name": "stufful",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "fighting"
@@ -7206,7 +7206,7 @@
   {
     "dex": 760,
     "name": "bewear",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "fighting"
@@ -7216,7 +7216,7 @@
   {
     "dex": 761,
     "name": "bounsweet",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -7225,7 +7225,7 @@
   {
     "dex": 762,
     "name": "steenee",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -7234,7 +7234,7 @@
   {
     "dex": 763,
     "name": "tsareena",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -7243,7 +7243,7 @@
   {
     "dex": 764,
     "name": "comfey",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy"
     ],
@@ -7252,7 +7252,7 @@
   {
     "dex": 765,
     "name": "oranguru",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "psychic"
@@ -7262,7 +7262,7 @@
   {
     "dex": 766,
     "name": "passimian",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -7271,7 +7271,7 @@
   {
     "dex": 767,
     "name": "wimpod",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "water"
@@ -7281,7 +7281,7 @@
   {
     "dex": 768,
     "name": "golisopod",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "water"
@@ -7291,7 +7291,7 @@
   {
     "dex": 769,
     "name": "sandygast",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost",
       "ground"
@@ -7301,7 +7301,7 @@
   {
     "dex": 770,
     "name": "palossand",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost",
       "ground"
@@ -7311,7 +7311,7 @@
   {
     "dex": 771,
     "name": "pyukumuku",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -7320,7 +7320,7 @@
   {
     "dex": 772,
     "name": "type-null",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -7338,7 +7338,7 @@
   {
     "dex": 774,
     "name": "minior",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "flying"
@@ -7348,7 +7348,7 @@
   {
     "dex": 775,
     "name": "komala",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -7357,7 +7357,7 @@
   {
     "dex": 776,
     "name": "turtonator",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "dragon"
@@ -7367,7 +7367,7 @@
   {
     "dex": 777,
     "name": "togedemaru",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric",
       "steel"
@@ -7377,7 +7377,7 @@
   {
     "dex": 778,
     "name": "mimikyu",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost",
       "fairy"
@@ -7387,7 +7387,7 @@
   {
     "dex": 779,
     "name": "bruxish",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "psychic"
@@ -7397,7 +7397,7 @@
   {
     "dex": 780,
     "name": "drampa",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "dragon"
@@ -7407,7 +7407,7 @@
   {
     "dex": 781,
     "name": "dhelmise",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost",
       "grass"
@@ -7426,7 +7426,7 @@
   {
     "dex": 783,
     "name": "hakamo-o",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "fighting"
@@ -7436,7 +7436,7 @@
   {
     "dex": 784,
     "name": "kommo-o",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "fighting"
@@ -7446,7 +7446,7 @@
   {
     "dex": 785,
     "name": "tapu-koko",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric",
       "fairy"
@@ -7456,7 +7456,7 @@
   {
     "dex": 786,
     "name": "tapu-lele",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic",
       "fairy"
@@ -7476,7 +7476,7 @@
   {
     "dex": 788,
     "name": "tapu-fini",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "fairy"
@@ -7486,7 +7486,7 @@
   {
     "dex": 789,
     "name": "cosmog",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -7495,7 +7495,7 @@
   {
     "dex": 790,
     "name": "cosmoem",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -7504,7 +7504,7 @@
   {
     "dex": 791,
     "name": "solgaleo",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic",
       "steel"
@@ -7514,7 +7514,7 @@
   {
     "dex": 792,
     "name": "lunala",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic",
       "ghost"
@@ -7524,7 +7524,7 @@
   {
     "dex": 793,
     "name": "nihilego",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "poison"
@@ -7554,7 +7554,7 @@
   {
     "dex": 796,
     "name": "xurkitree",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -7573,7 +7573,7 @@
   {
     "dex": 798,
     "name": "kartana",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "steel"
@@ -7583,7 +7583,7 @@
   {
     "dex": 799,
     "name": "guzzlord",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "dragon"
@@ -7593,7 +7593,7 @@
   {
     "dex": 800,
     "name": "necrozma",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -7602,7 +7602,7 @@
   {
     "dex": 801,
     "name": "magearna",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "fairy"
@@ -7612,7 +7612,7 @@
   {
     "dex": 802,
     "name": "marshadow",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting",
       "ghost"
@@ -7651,7 +7651,7 @@
   {
     "dex": 806,
     "name": "blacephalon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "ghost"
@@ -7661,7 +7661,7 @@
   {
     "dex": 807,
     "name": "zeraora",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -7670,7 +7670,7 @@
   {
     "dex": 808,
     "name": "meltan",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel"
     ],
@@ -7679,7 +7679,7 @@
   {
     "dex": 809,
     "name": "melmetal",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel"
     ],
@@ -7688,7 +7688,7 @@
   {
     "dex": 810,
     "name": "grookey",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -7697,7 +7697,7 @@
   {
     "dex": 811,
     "name": "thwackey",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -7706,7 +7706,7 @@
   {
     "dex": 812,
     "name": "rillaboom",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -7715,7 +7715,7 @@
   {
     "dex": 813,
     "name": "scorbunny",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -7724,7 +7724,7 @@
   {
     "dex": 814,
     "name": "raboot",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -7733,7 +7733,7 @@
   {
     "dex": 815,
     "name": "cinderace",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -7742,7 +7742,7 @@
   {
     "dex": 816,
     "name": "sobble",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -7751,7 +7751,7 @@
   {
     "dex": 817,
     "name": "drizzile",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -7760,7 +7760,7 @@
   {
     "dex": 818,
     "name": "inteleon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -7769,7 +7769,7 @@
   {
     "dex": 819,
     "name": "skwovet",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -7778,7 +7778,7 @@
   {
     "dex": 820,
     "name": "greedent",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -7787,7 +7787,7 @@
   {
     "dex": 821,
     "name": "rookidee",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "flying"
     ],
@@ -7796,7 +7796,7 @@
   {
     "dex": 822,
     "name": "corvisquire",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "flying"
     ],
@@ -7805,7 +7805,7 @@
   {
     "dex": 823,
     "name": "corviknight",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "flying",
       "steel"
@@ -7844,7 +7844,7 @@
   {
     "dex": 827,
     "name": "nickit",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark"
     ],
@@ -7853,7 +7853,7 @@
   {
     "dex": 828,
     "name": "thievul",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark"
     ],
@@ -7862,7 +7862,7 @@
   {
     "dex": 829,
     "name": "gossifleur",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -7871,7 +7871,7 @@
   {
     "dex": 830,
     "name": "eldegoss",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -7880,7 +7880,7 @@
   {
     "dex": 831,
     "name": "wooloo",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -7889,7 +7889,7 @@
   {
     "dex": 832,
     "name": "dubwool",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -7898,7 +7898,7 @@
   {
     "dex": 833,
     "name": "chewtle",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -7907,7 +7907,7 @@
   {
     "dex": 834,
     "name": "drednaw",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "rock"
@@ -7917,7 +7917,7 @@
   {
     "dex": 835,
     "name": "yamper",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -7926,7 +7926,7 @@
   {
     "dex": 836,
     "name": "boltund",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -7935,7 +7935,7 @@
   {
     "dex": 837,
     "name": "rolycoly",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock"
     ],
@@ -7944,7 +7944,7 @@
   {
     "dex": 838,
     "name": "carkol",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "fire"
@@ -7954,7 +7954,7 @@
   {
     "dex": 839,
     "name": "coalossal",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "fire"
@@ -7964,7 +7964,7 @@
   {
     "dex": 840,
     "name": "applin",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "dragon"
@@ -7974,7 +7974,7 @@
   {
     "dex": 841,
     "name": "flapple",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "dragon"
@@ -7984,7 +7984,7 @@
   {
     "dex": 842,
     "name": "appletun",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "dragon"
@@ -7994,7 +7994,7 @@
   {
     "dex": 843,
     "name": "silicobra",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground"
     ],
@@ -8003,7 +8003,7 @@
   {
     "dex": 844,
     "name": "sandaconda",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground"
     ],
@@ -8012,7 +8012,7 @@
   {
     "dex": 845,
     "name": "cramorant",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "flying",
       "water"
@@ -8022,7 +8022,7 @@
   {
     "dex": 846,
     "name": "arrokuda",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -8031,7 +8031,7 @@
   {
     "dex": 847,
     "name": "barraskewda",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -8040,7 +8040,7 @@
   {
     "dex": 848,
     "name": "toxel",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric",
       "poison"
@@ -8050,7 +8050,7 @@
   {
     "dex": 849,
     "name": "toxtricity",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric",
       "poison"
@@ -8070,7 +8070,7 @@
   {
     "dex": 851,
     "name": "centiskorch",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "bug"
@@ -8080,7 +8080,7 @@
   {
     "dex": 852,
     "name": "clobbopus",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -8089,7 +8089,7 @@
   {
     "dex": 853,
     "name": "grapploct",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -8098,7 +8098,7 @@
   {
     "dex": 854,
     "name": "sinistea",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost"
     ],
@@ -8107,7 +8107,7 @@
   {
     "dex": 855,
     "name": "polteageist",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost"
     ],
@@ -8116,7 +8116,7 @@
   {
     "dex": 856,
     "name": "hatenna",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -8125,7 +8125,7 @@
   {
     "dex": 857,
     "name": "hattrem",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -8134,7 +8134,7 @@
   {
     "dex": 858,
     "name": "hatterene",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic",
       "fairy"
@@ -8144,7 +8144,7 @@
   {
     "dex": 859,
     "name": "impidimp",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "fairy"
@@ -8154,7 +8154,7 @@
   {
     "dex": 860,
     "name": "morgrem",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "fairy"
@@ -8164,7 +8164,7 @@
   {
     "dex": 861,
     "name": "grimmsnarl",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "fairy"
@@ -8174,7 +8174,7 @@
   {
     "dex": 862,
     "name": "obstagoon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "normal"
@@ -8184,7 +8184,7 @@
   {
     "dex": 863,
     "name": "perrserker",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel"
     ],
@@ -8193,7 +8193,7 @@
   {
     "dex": 864,
     "name": "cursola",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost"
     ],
@@ -8202,7 +8202,7 @@
   {
     "dex": 865,
     "name": "sirfetchd",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -8211,7 +8211,7 @@
   {
     "dex": 866,
     "name": "mr-rime",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice",
       "psychic"
@@ -8221,7 +8221,7 @@
   {
     "dex": 867,
     "name": "runerigus",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground",
       "ghost"
@@ -8240,7 +8240,7 @@
   {
     "dex": 869,
     "name": "alcremie",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy"
     ],
@@ -8249,7 +8249,7 @@
   {
     "dex": 870,
     "name": "falinks",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -8258,7 +8258,7 @@
   {
     "dex": 871,
     "name": "pincurchin",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -8267,7 +8267,7 @@
   {
     "dex": 872,
     "name": "snom",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice",
       "bug"
@@ -8277,7 +8277,7 @@
   {
     "dex": 873,
     "name": "frosmoth",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice",
       "bug"
@@ -8287,7 +8287,7 @@
   {
     "dex": 874,
     "name": "stonjourner",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock"
     ],
@@ -8296,7 +8296,7 @@
   {
     "dex": 875,
     "name": "eiscue",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice"
     ],
@@ -8305,7 +8305,7 @@
   {
     "dex": 876,
     "name": "indeedee",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic",
       "normal"
@@ -8315,7 +8315,7 @@
   {
     "dex": 877,
     "name": "morpeko",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric",
       "dark"
@@ -8325,7 +8325,7 @@
   {
     "dex": 878,
     "name": "cufant",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel"
     ],
@@ -8334,7 +8334,7 @@
   {
     "dex": 879,
     "name": "copperajah",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel"
     ],
@@ -8343,7 +8343,7 @@
   {
     "dex": 880,
     "name": "dracozolt",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric",
       "dragon"
@@ -8363,7 +8363,7 @@
   {
     "dex": 882,
     "name": "dracovish",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "dragon"
@@ -8373,7 +8373,7 @@
   {
     "dex": 883,
     "name": "arctovish",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "ice"
@@ -8383,7 +8383,7 @@
   {
     "dex": 884,
     "name": "duraludon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "dragon"
@@ -8393,7 +8393,7 @@
   {
     "dex": 885,
     "name": "dreepy",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "ghost"
@@ -8403,7 +8403,7 @@
   {
     "dex": 886,
     "name": "drakloak",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "ghost"
@@ -8413,7 +8413,7 @@
   {
     "dex": 887,
     "name": "dragapult",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "ghost"
@@ -8423,7 +8423,7 @@
   {
     "dex": 888,
     "name": "zacian",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy"
     ],
@@ -8432,7 +8432,7 @@
   {
     "dex": 889,
     "name": "zamazenta",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -8441,7 +8441,7 @@
   {
     "dex": 890,
     "name": "eternatus",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison",
       "dragon"
@@ -8451,7 +8451,7 @@
   {
     "dex": 891,
     "name": "kubfu",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting"
     ],
@@ -8460,7 +8460,7 @@
   {
     "dex": 892,
     "name": "urshifu",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting",
       "dark"
@@ -8470,7 +8470,7 @@
   {
     "dex": 893,
     "name": "zarude",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "grass"
@@ -8480,7 +8480,7 @@
   {
     "dex": 894,
     "name": "regieleki",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -8489,7 +8489,7 @@
   {
     "dex": 895,
     "name": "regidrago",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon"
     ],
@@ -8498,7 +8498,7 @@
   {
     "dex": 896,
     "name": "glastrier",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice"
     ],
@@ -8507,7 +8507,7 @@
   {
     "dex": 897,
     "name": "spectrier",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost"
     ],
@@ -8516,7 +8516,7 @@
   {
     "dex": 898,
     "name": "calyrex",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic",
       "grass"
@@ -8526,7 +8526,7 @@
   {
     "dex": 899,
     "name": "wyrdeer",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "psychic"
@@ -8536,7 +8536,7 @@
   {
     "dex": 900,
     "name": "kleavor",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "rock"
@@ -8546,7 +8546,7 @@
   {
     "dex": 901,
     "name": "ursaluna",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground",
       "normal"
@@ -8556,7 +8556,7 @@
   {
     "dex": 902,
     "name": "basculegion",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "ghost"
@@ -8566,7 +8566,7 @@
   {
     "dex": 903,
     "name": "sneasler",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting",
       "poison"
@@ -8576,7 +8576,7 @@
   {
     "dex": 904,
     "name": "overqwil",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "poison"
@@ -8586,7 +8586,7 @@
   {
     "dex": 905,
     "name": "enamorus",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy",
       "flying"
@@ -8596,7 +8596,7 @@
   {
     "dex": 906,
     "name": "sprigatito",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -8605,7 +8605,7 @@
   {
     "dex": 907,
     "name": "floragato",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -8624,7 +8624,7 @@
   {
     "dex": 909,
     "name": "fuecoco",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -8633,7 +8633,7 @@
   {
     "dex": 910,
     "name": "crocalor",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -8652,7 +8652,7 @@
   {
     "dex": 912,
     "name": "quaxly",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -8661,7 +8661,7 @@
   {
     "dex": 913,
     "name": "quaxwell",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -8680,7 +8680,7 @@
   {
     "dex": 915,
     "name": "lechonk",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -8689,7 +8689,7 @@
   {
     "dex": 916,
     "name": "oinkologne",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -8698,7 +8698,7 @@
   {
     "dex": 917,
     "name": "tarountula",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -8707,7 +8707,7 @@
   {
     "dex": 918,
     "name": "spidops",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -8716,7 +8716,7 @@
   {
     "dex": 919,
     "name": "nymble",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -8725,7 +8725,7 @@
   {
     "dex": 920,
     "name": "lokix",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "dark"
@@ -8764,7 +8764,7 @@
   {
     "dex": 924,
     "name": "tandemaus",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -8773,7 +8773,7 @@
   {
     "dex": 925,
     "name": "maushold",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -8782,7 +8782,7 @@
   {
     "dex": 926,
     "name": "fidough",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy"
     ],
@@ -8791,7 +8791,7 @@
   {
     "dex": 927,
     "name": "dachsbun",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy"
     ],
@@ -8800,7 +8800,7 @@
   {
     "dex": 928,
     "name": "smoliv",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "normal"
@@ -8810,7 +8810,7 @@
   {
     "dex": 929,
     "name": "dolliv",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "normal"
@@ -8820,7 +8820,7 @@
   {
     "dex": 930,
     "name": "arboliva",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "normal"
@@ -8830,7 +8830,7 @@
   {
     "dex": 931,
     "name": "squawkabilly",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "flying"
@@ -8840,7 +8840,7 @@
   {
     "dex": 932,
     "name": "nacli",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock"
     ],
@@ -8849,7 +8849,7 @@
   {
     "dex": 933,
     "name": "naclstack",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock"
     ],
@@ -8858,7 +8858,7 @@
   {
     "dex": 934,
     "name": "garganacl",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock"
     ],
@@ -8867,7 +8867,7 @@
   {
     "dex": 935,
     "name": "charcadet",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire"
     ],
@@ -8876,7 +8876,7 @@
   {
     "dex": 936,
     "name": "armarouge",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "psychic"
@@ -8886,7 +8886,7 @@
   {
     "dex": 937,
     "name": "ceruledge",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "ghost"
@@ -8896,7 +8896,7 @@
   {
     "dex": 938,
     "name": "tadbulb",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -8905,7 +8905,7 @@
   {
     "dex": 939,
     "name": "bellibolt",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric"
     ],
@@ -8914,7 +8914,7 @@
   {
     "dex": 940,
     "name": "wattrel",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric",
       "flying"
@@ -8924,7 +8924,7 @@
   {
     "dex": 941,
     "name": "kilowattrel",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric",
       "flying"
@@ -8934,7 +8934,7 @@
   {
     "dex": 942,
     "name": "maschiff",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark"
     ],
@@ -8943,7 +8943,7 @@
   {
     "dex": 943,
     "name": "mabosstiff",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark"
     ],
@@ -8952,7 +8952,7 @@
   {
     "dex": 944,
     "name": "shroodle",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison",
       "normal"
@@ -8962,7 +8962,7 @@
   {
     "dex": 945,
     "name": "grafaiai",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison",
       "normal"
@@ -8972,7 +8972,7 @@
   {
     "dex": 946,
     "name": "bramblin",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "ghost"
@@ -8982,7 +8982,7 @@
   {
     "dex": 947,
     "name": "brambleghast",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "ghost"
@@ -8992,7 +8992,7 @@
   {
     "dex": 948,
     "name": "toedscool",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground",
       "grass"
@@ -9002,7 +9002,7 @@
   {
     "dex": 949,
     "name": "toedscruel",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground",
       "grass"
@@ -9012,7 +9012,7 @@
   {
     "dex": 950,
     "name": "klawf",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock"
     ],
@@ -9021,7 +9021,7 @@
   {
     "dex": 951,
     "name": "capsakid",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -9030,7 +9030,7 @@
   {
     "dex": 952,
     "name": "scovillain",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "fire"
@@ -9040,7 +9040,7 @@
   {
     "dex": 953,
     "name": "rellor",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug"
     ],
@@ -9049,7 +9049,7 @@
   {
     "dex": 954,
     "name": "rabsca",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "psychic"
@@ -9059,7 +9059,7 @@
   {
     "dex": 955,
     "name": "flittle",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -9068,7 +9068,7 @@
   {
     "dex": 956,
     "name": "espathra",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "psychic"
     ],
@@ -9077,7 +9077,7 @@
   {
     "dex": 957,
     "name": "tinkatink",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy",
       "steel"
@@ -9087,7 +9087,7 @@
   {
     "dex": 958,
     "name": "tinkatuff",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy",
       "steel"
@@ -9097,7 +9097,7 @@
   {
     "dex": 959,
     "name": "tinkaton",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy",
       "steel"
@@ -9107,7 +9107,7 @@
   {
     "dex": 960,
     "name": "wiglett",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -9116,7 +9116,7 @@
   {
     "dex": 961,
     "name": "wugtrio",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -9125,7 +9125,7 @@
   {
     "dex": 962,
     "name": "bombirdier",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "flying",
       "dark"
@@ -9135,7 +9135,7 @@
   {
     "dex": 963,
     "name": "finizen",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -9144,7 +9144,7 @@
   {
     "dex": 964,
     "name": "palafin",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -9153,7 +9153,7 @@
   {
     "dex": 965,
     "name": "varoom",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "poison"
@@ -9163,7 +9163,7 @@
   {
     "dex": 966,
     "name": "revavroom",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "poison"
@@ -9173,7 +9173,7 @@
   {
     "dex": 967,
     "name": "cyclizar",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "normal"
@@ -9183,7 +9183,7 @@
   {
     "dex": 968,
     "name": "orthworm",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel"
     ],
@@ -9192,7 +9192,7 @@
   {
     "dex": 969,
     "name": "glimmet",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "poison"
@@ -9202,7 +9202,7 @@
   {
     "dex": 970,
     "name": "glimmora",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "rock",
       "poison"
@@ -9212,7 +9212,7 @@
   {
     "dex": 971,
     "name": "greavard",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost"
     ],
@@ -9221,7 +9221,7 @@
   {
     "dex": 972,
     "name": "houndstone",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost"
     ],
@@ -9230,7 +9230,7 @@
   {
     "dex": 973,
     "name": "flamigo",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "flying",
       "fighting"
@@ -9240,7 +9240,7 @@
   {
     "dex": 974,
     "name": "cetoddle",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice"
     ],
@@ -9249,7 +9249,7 @@
   {
     "dex": 975,
     "name": "cetitan",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice"
     ],
@@ -9258,7 +9258,7 @@
   {
     "dex": 976,
     "name": "veluza",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water",
       "psychic"
@@ -9268,7 +9268,7 @@
   {
     "dex": 977,
     "name": "dondozo",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "water"
     ],
@@ -9277,7 +9277,7 @@
   {
     "dex": 978,
     "name": "tatsugiri",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "water"
@@ -9287,7 +9287,7 @@
   {
     "dex": 979,
     "name": "annihilape",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting",
       "ghost"
@@ -9297,7 +9297,7 @@
   {
     "dex": 980,
     "name": "clodsire",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "poison",
       "ground"
@@ -9307,7 +9307,7 @@
   {
     "dex": 981,
     "name": "farigiraf",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal",
       "psychic"
@@ -9317,7 +9317,7 @@
   {
     "dex": 982,
     "name": "dudunsparce",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "normal"
     ],
@@ -9326,7 +9326,7 @@
   {
     "dex": 983,
     "name": "kingambit",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "steel"
@@ -9336,7 +9336,7 @@
   {
     "dex": 984,
     "name": "great-tusk",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground",
       "fighting"
@@ -9346,7 +9346,7 @@
   {
     "dex": 985,
     "name": "scream-tail",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy",
       "psychic"
@@ -9356,7 +9356,7 @@
   {
     "dex": 986,
     "name": "brute-bonnet",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "dark"
@@ -9366,7 +9366,7 @@
   {
     "dex": 987,
     "name": "flutter-mane",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost",
       "fairy"
@@ -9376,7 +9376,7 @@
   {
     "dex": 988,
     "name": "slither-wing",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "bug",
       "fighting"
@@ -9386,7 +9386,7 @@
   {
     "dex": 989,
     "name": "sandy-shocks",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric",
       "ground"
@@ -9396,7 +9396,7 @@
   {
     "dex": 990,
     "name": "iron-treads",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ground",
       "steel"
@@ -9406,7 +9406,7 @@
   {
     "dex": 991,
     "name": "iron-bundle",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ice",
       "water"
@@ -9416,7 +9416,7 @@
   {
     "dex": 992,
     "name": "iron-hands",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting",
       "electric"
@@ -9426,7 +9426,7 @@
   {
     "dex": 993,
     "name": "iron-jugulis",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "flying"
@@ -9436,7 +9436,7 @@
   {
     "dex": 994,
     "name": "iron-moth",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fire",
       "poison"
@@ -9456,7 +9456,7 @@
   {
     "dex": 996,
     "name": "frigibax",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "ice"
@@ -9466,7 +9466,7 @@
   {
     "dex": 997,
     "name": "arctibax",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "ice"
@@ -9476,7 +9476,7 @@
   {
     "dex": 998,
     "name": "baxcalibur",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "ice"
@@ -9486,7 +9486,7 @@
   {
     "dex": 999,
     "name": "gimmighoul",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "ghost"
     ],
@@ -9495,7 +9495,7 @@
   {
     "dex": 1000,
     "name": "gholdengo",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "steel",
       "ghost"
@@ -9505,7 +9505,7 @@
   {
     "dex": 1001,
     "name": "wo-chien",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "grass"
@@ -9515,7 +9515,7 @@
   {
     "dex": 1002,
     "name": "chien-pao",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "ice"
@@ -9525,7 +9525,7 @@
   {
     "dex": 1003,
     "name": "ting-lu",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "ground"
@@ -9535,7 +9535,7 @@
   {
     "dex": 1004,
     "name": "chi-yu",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dark",
       "fire"
@@ -9545,7 +9545,7 @@
   {
     "dex": 1005,
     "name": "roaring-moon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "dragon",
       "dark"
@@ -9555,7 +9555,7 @@
   {
     "dex": 1006,
     "name": "iron-valiant",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fairy",
       "fighting"
@@ -9565,7 +9565,7 @@
   {
     "dex": 1007,
     "name": "koraidon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "fighting",
       "dragon"
@@ -9575,7 +9575,7 @@
   {
     "dex": 1008,
     "name": "miraidon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric",
       "dragon"
@@ -9625,7 +9625,7 @@
   {
     "dex": 1013,
     "name": "sinistcha",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass",
       "ghost"
@@ -9665,7 +9665,7 @@
   {
     "dex": 1017,
     "name": "ogerpon",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "grass"
     ],
@@ -9704,7 +9704,7 @@
   {
     "dex": 1021,
     "name": "raging-bolt",
-    "obtained": true,
+    "obtained": false,
     "types": [
       "electric",
       "dragon"
