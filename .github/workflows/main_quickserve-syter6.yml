@@ -1,66 +1,25 @@
-# Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
-# More GitHub Actions for Azure: https://github.com/Azure/actions
+# File: .github/workflows/workflow.yml
 
-name: Build and deploy ASP.Net Core app to Azure Web App - quickserve-syter6
+name: Run Azure Login with OIDC
+on: [push]
 
-on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
-
+permissions:
+  id-token: write
+  contents: read
 jobs:
-  build:
-    runs-on: windows-latest
-
+  build-and-deploy:
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Set up .NET Core
-        uses: actions/setup-dotnet@v1
-        with:
-          dotnet-version: '8.x'
-          include-prerelease: true
-
-      - name: Build with dotnet
-        run: dotnet build --configuration Release
-
-      - name: dotnet publish
-        run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/myapp
-
-      - name: Upload artifact for deployment job
-        uses: actions/upload-artifact@v3
-        with:
-          name: .net-app
-          path: ${{env.DOTNET_ROOT}}/myapp
-
-  deploy:
-    runs-on: windows-latest
-    needs: build
-    environment:
-      name: 'Production'
-      url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
-    permissions:
-      id-token: write #This is required for requesting the JWT
-
-    steps:
-      - name: Download artifact from build job
-        uses: actions/download-artifact@v3
-        with:
-          name: .net-app
-      
-      - name: Login to Azure
+      - name: Azure login
         uses: azure/login@v2
         with:
           client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_9E39EC7A95FC4A159A58A35668CC16B9 }}
           tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_2C5DF67EC4D146C7B87BA1E3FBCC4557 }}
           subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_FCDC3E06093E4AE3B5E7849789F82883 }}
 
-      - name: Deploy to Azure Web App
-        id: deploy-to-webapp
-        uses: azure/webapps-deploy@v2
+      - name: Azure CLI script
+        uses: azure/cli@v2
         with:
-          app-name: 'quickserve-syter6'
-          slot-name: 'Production'
-          package: .
-          
+          azcliversion: latest
+          inlineScript: |
+            az account show
