@@ -1,5 +1,6 @@
 using Microsoft.Extensions.Options;
 using Microsoft.OpenApi.Models;
+using QuickServe.Controllers;
 using QuickServe.Middleware;
 using QuickServe.Services;
 using QuickServe.Services.Interfaces;
@@ -14,6 +15,8 @@ builder.Services.AddSingleton<IFileService, FileService>();
 builder.Services.AddSingleton<IDataService, DataService>();
 
 builder.Services.AddAutoMapper(typeof(Program));
+
+builder.Services.AddSignalR();
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
@@ -60,6 +63,11 @@ builder.Services.AddSwaggerGen(options =>
 
 });
 
+builder.Services.Configure<IISServerOptions>(options =>
+{
+    options.MaxRequestBodySize = null;
+});
+
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", builder =>
@@ -79,6 +87,7 @@ app.UseHttpsRedirection();
 
 app.UseMiddleware<ApiKeyMiddleware>();
 
+app.MapHub<CameraHub>("/hubs/camera");
 app.UseCors("AllowAll");
 
 app.UseAuthorization();
