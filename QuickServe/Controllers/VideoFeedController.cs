@@ -56,7 +56,7 @@ namespace QuickServe.Controllers
             try
             {
                 // If no frames exist, assign it the unavailable.jpg file
-                LATEST_FRAME_BYTES ??= System.IO.File.ReadAllBytes("data/unavailable.jpg");
+                LATEST_FRAME_BYTES ??= System.IO.File.ReadAllBytes("../data/unavailable.jpg");
 
                 // Return the image as a response
                 return this.File(LATEST_FRAME_BYTES, "image/jpeg");
