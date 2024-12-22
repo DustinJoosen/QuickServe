@@ -72,11 +72,15 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", builder =>
     {
-        builder.AllowAnyHeader()
+        builder.SetIsOriginAllowed(_ => true)
+            .AllowAnyHeader()
             .AllowAnyMethod()
-            .AllowAnyOrigin();
+            .AllowCredentials();
     });
 });
+
+
+
 
 var app = builder.Build();
 
@@ -85,12 +89,13 @@ app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
 
-app.UseMiddleware<ApiKeyMiddleware>();
-
-app.MapHub<CameraHub>("/hubs/camera");
 app.UseCors("AllowAll");
 
 app.UseAuthorization();
+app.UseMiddleware<ApiKeyMiddleware>();
+
+app.MapHub<CameraHub>("/hubs/camera");
+
 
 app.MapControllers();
 
